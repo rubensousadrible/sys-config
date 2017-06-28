@@ -7,9 +7,13 @@
 A **"LAMP"** stack is a group of open source software that is typically installed together to enable a server to host dynamic websites and web apps. This term is actually an acronym which represents the Linux operating system, with the Apache web server. The site data is stored in a **MySQL** database, and dynamic content is processed by **PHP**. 
 
 In this guide, we'll get a **LAMP** stack installed on an Ubuntu 16.04 Droplet. Ubuntu will fulfill our first requirement: a Linux operating system.
+
 ## Prerequisites
+
 Before you begin with this guide, you should have a separate, non-root user account with 'sudo' privileges set up on your server. You can learn how to do this by completing steps 1-4 in the [initial server setup for Ubuntu 16.04.](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+
 ## Step 1: Install Apache and Allow in Firewall
+
 The Apache web server is among the most popular web servers in the world. It's well-documented, and has been in wide use for much of the history of the web, which makes it a great default choice for hosting a website.
 
 We can install Apache easily using Ubuntu's package manager, 'apt'. A package manager allows us to install most software pain-free from a repository maintained by Ubuntu. You can learn more about [how to use 'apt'](https://www.digitalocean.com/community/tutorials/how-to-manage-packages-in-ubuntu-and-debian-with-apt-get-apt-cache) here.
@@ -24,6 +28,7 @@ Since we are using a 'sudo' command, these operations get executed with root pri
 Once you've entered your password, 'apt' will tell you which packages it plans to install and how much extra disk space they'll take up. Press **Y** and hit **Enter** to continue, and the installation will proceed.
 
 ### Set Global ServerName to Suppress Syntax Warnings
+
 Next, we will add a single line to the '/etc/apache2/apache2.conf' file to suppress a warning message. While harmless, if you do not set 'ServerName' globally, you will receive the following warning when checking your Apache configuration for syntax errors:
 'sudo apache2ctl configtest'
 Output
@@ -33,6 +38,7 @@ Syntax OK
 Open up the main configuration file with your text edit:
 'sudo nano /etc/apache2/apache2.conf'
 Inside, at the bottom of the file, add a 'ServerName' directive, pointing to your primary domain name. If you do not have a domain name associated with your server, you can use your server's public IP address:
+
 **Note**
 If you don't know your server's IP address, skip down to the section on [how to find your server's public IP address](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04#how-to-find-your-server-39-s-public-ip-address) to find it.
 **/etc/apache2/apache2.conf**
@@ -45,6 +51,7 @@ Next, check for syntax errors by typing:
 'sudo apache2ctl configtest'
 
 Since we added the global 'ServerName' directive, all you should see is:
+
 **Output**
 Syntax OK
 
@@ -56,6 +63,7 @@ You can now begin adjusting the firewall.
 
 Next, assuming that you have followed the initial server setup instructions to enable the UFW firewall, make sure that your firewall allows HTTP and HTTPS traffic. You can make sure that UFW has an application profile for Apache like so:
 'sudo ufw app list'
+
 **Output
 Available applications:**
 'Apache
@@ -72,6 +80,7 @@ server.
 
 Ports:
   80,443/tcp
+  
  Allow incoming traffic for this profile:
  'sudo ufw allow in "Apache Full"'
  You can do a spot check right away to verify that everything went as planned by visiting your server's public IP address in your web browser (see the note under the next heading to find out what your public IP address is if you do not have this information already):
@@ -101,6 +110,7 @@ Now that we have our web server up and running, it is time to install MySQL. MyS
 
 Again, we can use apt to acquire and install our software. This time, we'll also install some other "helper" packages that will assist us in getting our components to communicate with each other:
 'sudo apt-get install mysql-server'
+
 **Note**: In this case, you do not have to run 'sudo apt-get update' prior to the command. This is because we recently ran it in the commands above to install Apache. The package index on our computer should already be up-to-date.
 Again, you will be shown a list of the packages that will be installed, along with the amount of disk space they'll take up. Enter **Y** to continue.
 
@@ -111,8 +121,11 @@ When the installation is complete, we want to run a simple security script that 
 'mysql_secure_installation'
 
 You will be asked to enter the password you set for the MySQL root account. Next, you will be asked if you want to configure the 'VALIDATE PASSWORD PLUGIN'.
+
 **Warning**: Enabling this feature is something of a judgment call. If enabled, passwords which don't match the specified criteria will be rejected by MySQL with an error. This will cause issues if you use a weak password in conjunction with software which automatically configures MySQL user credentials, such as the Ubuntu packages for phpMyAdmin. It is safe to leave validation disabled, but you should always use strong, unique passwords for database credentials.
+
 Answer y for yes, or anything else to continue without enabling.
+
 'VALIDATE PASSWORD PLUGIN can be used to test passwords
 and improve security. It checks the strength of password
 and allows the users to set only those passwords which are
@@ -139,7 +152,9 @@ At this point, your database system is now set up and we can move on.
 ## Step 3: Install PHP
 
 PHP is the component of our setup that will process code to display dynamic content. It can run scripts, connect to our MySQL databases to get information, and hand the processed content over to our web server to display.
+
 We can once again leverage the 'apt' system to install our components. We're going to include some helper packages as well, so that PHP code can run under the Apache server and talk to our MySQL database:
+
 'sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql'
 This should install PHP without any problems. We'll test this in a moment.
 
@@ -149,21 +164,26 @@ To do this, type this command to open the 'dir.conf' file in a text editor with 
 'sudo nano /etc/apache2/mods-enabled/dir.conf'
 
 It will look like this:
+
 **/etc/apache2/mods-enabled/dir.conf**
 '<IfModule mod_dir.c>
     DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
 </IfModule>'
+
 We want to move the PHP index file highlighted above to the first position after the 'DirectoryIndex' specification, like this:
+
 **/etc/apache2/mods-enabled/dir.conf**
 '<IfModule mod_dir.c>
     DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 </IfModule>'
+
 When you are finished, save and close the file by pressing **Ctrl-X**. You'll have to confirm the save by typing **Y** and then hit **Enter** to confirm the file save location.
 
 After this, we need to restart the Apache web server in order for our changes to be recognized. You can do this by typing this:
 
 'sudo systemctl restart apache2'
 We can also check on the status of the 'apache2' service using 'systemctl':
+
 'sudo systemctl status apache2'
 **Sample Output**
 'apache2.service - LSB: Apache2 web server
