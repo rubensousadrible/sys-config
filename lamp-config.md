@@ -4,7 +4,9 @@
 ### Introduction
 
 
-A **"LAMP"** stack is a group of open source software that is typically installed together to enable a server to host dynamic websites and web apps. This term is actually an acronym which represents the Linux operating system, with the Apache web server. The site data is stored in a **MySQL** database, and dynamic content is processed by **PHP**. In this guide, we'll get a **LAMP** stack installed on an Ubuntu 16.04 Droplet. Ubuntu will fulfill our first requirement: a Linux operating system.
+A **"LAMP"** stack is a group of open source software that is typically installed together to enable a server to host dynamic websites and web apps. This term is actually an acronym which represents the Linux operating system, with the Apache web server. The site data is stored in a **MySQL** database, and dynamic content is processed by **PHP**. 
+
+In this guide, we'll get a **LAMP** stack installed on an Ubuntu 16.04 Droplet. Ubuntu will fulfill our first requirement: a Linux operating system.
 ## Prerequisites
 Before you begin with this guide, you should have a separate, non-root user account with 'sudo' privileges set up on your server. You can learn how to do this by completing steps 1-4 in the [initial server setup for Ubuntu 16.04.](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 ## Step 1: Install Apache and Allow in Firewall
