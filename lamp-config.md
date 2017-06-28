@@ -63,6 +63,7 @@ Ports:
  'http://your_server_IP_address'
  You will see the default Ubuntu 16.04 Apache web page, which is there for informational and testing purposes. It should look something like this:
  ![Image](http://assets.digitalocean.com/articles/how-to-install-lamp-ubuntu-16/small_apache_default.png)
+ 
  If you see this page, then your web server is now correctly installed and accessible through your firewall.
  ### How To Find your Server's Public IP Address
  If you do not know what your server's public IP address is, there are a number of ways you can find it. Usually, this is the address you use to connect to your server through SSH.
