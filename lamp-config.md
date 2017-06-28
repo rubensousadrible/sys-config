@@ -5,9 +5,9 @@
 
 
 A **"LAMP"** stack is a group of open source software that is typically installed together to enable a server to host dynamic websites and web apps. This term is actually an acronym which represents the Linux operating system, with the Apache web server. The site data is stored in a **MySQL** database, and dynamic content is processed by **PHP**. In this guide, we'll get a **LAMP** stack installed on an Ubuntu 16.04 Droplet. Ubuntu will fulfill our first requirement: a Linux operating system.
-##Prerequisites
+## Prerequisites
 Before you begin with this guide, you should have a separate, non-root user account with 'sudo' privileges set up on your server. You can learn how to do this by completing steps 1-4 in the [initial server setup for Ubuntu 16.04.](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
-##Step 1: Install Apache and Allow in Firewall
+## Step 1: Install Apache and Allow in Firewall
 The Apache web server is among the most popular web servers in the world. It's well-documented, and has been in wide use for much of the history of the web, which makes it a great default choice for hosting a website.
 We can install Apache easily using Ubuntu's package manager, 'apt'. A package manager allows us to install most software pain-free from a repository maintained by Ubuntu. You can learn more about [how to use 'apt'](https://www.digitalocean.com/community/tutorials/how-to-manage-packages-in-ubuntu-and-debian-with-apt-get-apt-cache) here.
 For our purposes, we can get started by typing these commands:
@@ -15,7 +15,7 @@ For our purposes, we can get started by typing these commands:
 sudo apt-get install apache2'
 Since we are using a 'sudo' command, these operations get executed with root privileges. It will ask you for your regular user's password to verify your intentions.
 Once you've entered your password, 'apt' will tell you which packages it plans to install and how much extra disk space they'll take up. Press **Y** and hit **Enter** to continue, and the installation will proceed.
-###Set Global ServerName to Suppress Syntax Warnings
+### Set Global ServerName to Suppress Syntax Warnings
 Next, we will add a single line to the '/etc/apache2/apache2.conf' file to suppress a warning message. While harmless, if you do not set 'ServerName' globally, you will receive the following warning when checking your Apache configuration for syntax errors:
 'sudo apache2ctl configtest'
 Output
@@ -38,7 +38,7 @@ Syntax OK
 Restart Apache to implement your changes:
 'sudo systemctl restart apache2'
 You can now begin adjusting the firewall.
-###Adjust the Firewall to Allow Web Traffic
+### Adjust the Firewall to Allow Web Traffic
 Next, assuming that you have followed the initial server setup instructions to enable the UFW firewall, make sure that your firewall allows HTTP and HTTPS traffic. You can make sure that UFW has an application profile for Apache like so:
 'sudo ufw app list'
 **Output
@@ -64,7 +64,7 @@ Ports:
  You will see the default Ubuntu 16.04 Apache web page, which is there for informational and testing purposes. It should look something like this:
  ![Image](http://assets.digitalocean.com/articles/how-to-install-lamp-ubuntu-16/small_apache_default.png)
  If you see this page, then your web server is now correctly installed and accessible through your firewall.
- ###How To Find your Server's Public IP Address
+ ### How To Find your Server's Public IP Address
  If you do not know what your server's public IP address is, there are a number of ways you can find it. Usually, this is the address you use to connect to your server through SSH.
  From the command line, you can find this a few ways. First, you can use the 'iproute2' tools to get your address by typing this:
  'ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//''
@@ -73,7 +73,7 @@ Ports:
  'sudo apt-get install curl
 curl http://icanhazip.com'
 Regardless of the method you use to get your IP address, you can type it into your web browser's address bar to get to your server.
-##Step 2: Install MySQL
+## Step 2: Install MySQL
 Now that we have our web server up and running, it is time to install MySQL. MySQL is a database management system. Basically, it will organize and provide access to databases where our site can store information.
 Again, we can use apt to acquire and install our software. This time, we'll also install some other "helper" packages that will assist us in getting our components to communicate with each other:
 'sudo apt-get install mysql-server'
@@ -106,7 +106,7 @@ Estimated strength of the password: 100
 Change the password for root ? ((Press y|Y for Yes, any other key for No) : n'
 For the rest of the questions, you should press **Y** and hit the **Enter** key at each prompt. This will remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes we have made.
 At this point, your database system is now set up and we can move on.
-##Step 3: Install PHP
+## Step 3: Install PHP
 PHP is the component of our setup that will process code to display dynamic content. It can run scripts, connect to our MySQL databases to get information, and hand the processed content over to our web server to display.
 We can once again leverage the 'apt' system to install our components. We're going to include some helper packages as well, so that PHP code can run under the Apache server and talk to our MySQL database:
 'sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql'
@@ -153,7 +153,7 @@ Apr 13 14:28:42 ubuntu-16-lamp apache2[13605]:  * Starting Apache httpd web serv
 Apr 13 14:28:42 ubuntu-16-lamp apache2[13605]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerNam
 Apr 13 14:28:43 ubuntu-16-lamp apache2[13605]:  *
 Apr 13 14:28:43 ubuntu-16-lamp systemd[1]: Started LSB: Apache2 web server.'
-###Install PHP Modules
+### Install PHP Modules
 To enhance the functionality of PHP, we can optionally install some additional modules.
 To see the available options for PHP modules and libraries, you can pipe the results of 'apt-cache search' into 'less', a pager which lets you scroll through the output of other commands:
 'apt-cache search php- | less'
@@ -195,7 +195,7 @@ If we decided that 'php-cli' is something that we need, we could type:
 If you want to install more than one module, you can do that by listing each one, separated by a space, following the 'apt-get install' command, like this:
 'sudo apt-get install package1 package2 ...'
 At this point, your **LAMP** stack is installed and configured. We should still test out our PHP though.
-##Step 4: Test PHP Processing on your Web Server
+## Step 4: Test PHP Processing on your Web Server
 In order to test that our system is configured properly for PHP, we can create a very basic PHP script.
 We will call this script 'info.php'. In order for Apache to find the file and serve it correctly, it must be saved to a very specific directory, which is called the "web root".
 In Ubuntu 16.04, this directory is located at '/var/www/html/'. We can create the file at that location by typing:
@@ -216,7 +216,7 @@ If this was successful, then your PHP is working as expected.
 You probably want to remove this file after this test because it could actually give information about your server to unauthorized users. To do this, you can type this:
 'sudo rm /var/www/html/info.php'
 You can always recreate this page if you need to access the information again later.
-###Conclusion
+### Conclusion
 Now that you have a LAMP stack installed, you have many choices for what to do next. Basically, you've installed a platform that will allow you to install most kinds of websites and web software on your server.
 As an immediate next step, you should ensure that connections to your web server are secured, by serving them via HTTPS. The easiest option here is to [use Let's Encrypt](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04) to secure your site with a free TLS/SSL certificate.
 Some other popular options are:
