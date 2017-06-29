@@ -40,14 +40,16 @@ Let's start with `example.com`. We can open up an `index.html` file in our edito
 
 In this file, create a simple HTML document that indicates the site it is connected to. My file looks like this:
 
-`<html>
+```
+<html>
   <head>
     <title>Welcome to Example.com!</title>
   </head>
   <body>
     <h1>Success!  The example.com virtual host is working!</h1>
   </body>
-</html>`
+</html>
+```
 
 Save and close the file when you are finished.
 
