@@ -18,7 +18,6 @@ The portions in red represent the domain names that we are wanting to serve from
 Now we have the directory structure for our files, but they are owned by our root user. If we want our regular user to be able to modify files in our web directories, we can change the ownership by doing this:
 
 `sudo chown -R $USER:$USER /var/www/example.com/public_html
-
 sudo chown -R $USER:$USER /var/www/test.com/public_html`
 
 The `$USER` variable will take the value of the user you are currently logged in as when you press "ENTER". By doing this, our regular user now owns the `public_html` subdirectories where we will be storing our content.
@@ -41,14 +40,14 @@ Let's start with `example.com`. We can open up an `index.html` file in our edito
 
 In this file, create a simple HTML document that indicates the site it is connected to. My file looks like this:
 
-<html>
+`<html>
   <head>
     <title>Welcome to Example.com!</title>
   </head>
   <body>
     <h1>Success!  The example.com virtual host is working!</h1>
   </body>
-</html>
+</html>`
 
 Save and close the file when you are finished.
 
@@ -60,14 +59,14 @@ We can then open the file and modify the relevant pieces of information:
 
 `nano /var/www/test.com/public_html/index.html`
 
-<html>
+`<html>
   <head>
     <title>Welcome to Test.com!</title>
   </head>
   <body>
     <h1>Success!  The test.com virtual host is working!</h1>
   </body>
-</html
+</html>`
 
 Save and close this file as well. You now have the pages necessary to test the virtual host configuration.
 
@@ -205,6 +204,8 @@ Now that you have your virtual hosts configured, you can test your setup easily 
 ` http://example.com `
 
 You should see a page that looks like this:
+
+
 
 Likewise, if you can visit your second page:
 
