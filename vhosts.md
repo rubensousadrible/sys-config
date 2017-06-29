@@ -61,14 +61,16 @@ We can then open the file and modify the relevant pieces of information:
 
 `nano /var/www/test.com/public_html/index.html`
 
-`<html>
+```
+<html>
   <head>
     <title>Welcome to Test.com!</title>
   </head>
   <body>
     <h1>Success!  The test.com virtual host is working!</h1>
   </body>
-</html>`
+</html>
+```
 
 Save and close this file as well. You now have the pages necessary to test the virtual host configuration.
 
