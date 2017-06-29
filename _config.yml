@@ -5,6 +5,4 @@ footer-links:
   facebook: agenciadrible
   github: popperz0r/sys-config
   twitter: popperz0r
-url: https://popperz0r.github.io/sys-config/
-baseurl: "/sys-config"
 theme: jekyll-theme-cayman
