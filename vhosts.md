@@ -41,14 +41,14 @@ Let's start with `example.com`. We can open up an `index.html` file in our edito
 
 In this file, create a simple HTML document that indicates the site it is connected to. My file looks like this:
 
-`<html>
+<html>
   <head>
     <title>Welcome to Example.com!</title>
   </head>
   <body>
     <h1>Success!  The example.com virtual host is working!</h1>
   </body>
-</html>`
+</html>
 
 Save and close the file when you are finished.
 
@@ -60,14 +60,14 @@ We can then open the file and modify the relevant pieces of information:
 
 `nano /var/www/test.com/public_html/index.html`
 
-`<html>
+<html>
   <head>
     <title>Welcome to Test.com!</title>
   </head>
   <body>
     <h1>Success!  The test.com virtual host is working!</h1>
   </body>
-</html`
+</html
 
 Save and close this file as well. You now have the pages necessary to test the virtual host configuration.
 
@@ -189,10 +189,10 @@ The details that you need to add are the public IP address of your VPS server fo
 
 For the domains that I used in this guide, assuming that my VPS IP address is `111.111.111.111`, I could add the following lines to the bottom of my hosts file:
 
-` 127.0.0.1   localhost
+ 127.0.0.1   localhost
 127.0.1.1   guest-desktop
 111.111.111.111 example.com
-111.111.111.111 test.com `
+111.111.111.111 test.com 
 
 This will direct any requests for `example.com` and `test.com` on our computer and send them to our server at `111.111.111.111`. This is what we want if we are not actually the owners of these domains in order to test our virtual hosts.
 
