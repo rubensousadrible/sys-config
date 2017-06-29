@@ -8,9 +8,9 @@ Within each of these directories, we will create a 'public_html' folder that wil
 
 For instance, for our sites, we're going to make our directories like this:
 
-'sudo mkdir -p /var/www/example.com/public_html
+' sudo mkdir -p /var/www/example.com/public_html
 
-sudo mkdir -p /var/www/test.com/public_html'
+sudo mkdir -p /var/www/test.com/public_html '
 
 The portions in red represent the domain names that we are wanting to serve from our VPS.
 
@@ -106,3 +106,121 @@ First, we need to change the 'ServerAdmin' directive to an email that the site a
 'ServerAdmin admin@example.com'
 
 After this, we need to add two directives. The first, called 'ServerName', establishes the base domain that should match for this virtual host definition. This will most likely be your domain. The second, called 'ServerAlias', defines further names that should match as if they were the base name. This is useful for matching hosts you defined, like 'www':
+
+'ServerName example.com
+ServerAlias www.example.com'
+
+The only other thing we need to change for a basic virtual host file is the location of the document root for this domain. We already created the directory we need, so we just need to alter the 'DocumentRoot' directive to reflect the directory we created:
+
+'DocumentRoot /var/www/example.com/public_html'
+
+In total, our virtualhost file should look like this:
+
+'<VirtualHost *:80>
+    ServerAdmin admin@example.com
+    ServerName example.com
+    ServerAlias www.example.com
+    DocumentRoot /var/www/example.com/public_html
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>'
+
+Save and close the file.
+
+### Copy First Virtual Host and Customize for Second Domain
+
+Now that we have our first virtual host file established, we can create our second one by copying that file and adjusting it as needed.
+
+Start by copying it:
+
+'sudo cp /etc/apache2/sites-available/example.com.conf /etc/apache2/sites-available/test.com.conf'
+
+Open the new file with root privileges in your editor:
+
+'sudo nano /etc/apache2/sites-available/test.com.conf'
+
+You now need to modify all of the pieces of information to reference your second domain. When you are finished, it may look something like this:
+
+'<VirtualHost *:80>
+    ServerAdmin admin@test.com
+    ServerName test.com
+    ServerAlias www.test.com
+    DocumentRoot /var/www/test.com/public_html
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>'
+
+Save and close the file when you are finished.
+
+## Step Five — Enable the New Virtual Host Files 
+
+Now that we have created our virtual host files, we must enable them. Apache includes some tools that allow us to do this.
+
+We can use the 'a2ensite' tool to enable each of our sites like this:
+
+'sudo a2ensite example.com.conf
+sudo a2ensite test.com.conf'
+
+When you are finished, you need to restart Apache to make these changes take effect:
+
+'sudo service apache2 restart'
+
+You will most likely receive a message saying something similar to:
+
+' * Restarting web server apache2
+ AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message'
+ 
+ This is a harmless message that does not affect our site.
+ 
+ ## Step Six — Set Up Local Hosts File (Optional) 
+ 
+ If you haven't been using actual domain names that you own to test this procedure and have been using some example domains instead, you can at least test the functionality of this process by temporarily modifying the 'hosts' file on your local computer.
+ 
+ This will intercept any requests for the domains that you configured and point them to your VPS server, just as the DNS system would do if you were using registered domains. This will only work from your computer though, and is simply useful for testing purposes.
+ 
+ Make sure you are operating on your local computer for these steps and not your VPS server. You will need to know the computer's administrative password or otherwise be a member of the administrative group.
+ 
+ If you are on a Mac or Linux computer, edit your local file with administrative privileges by typing:
+ 
+'sudo nano /etc/hosts'
+
+If you are on a Windows machine, you can [find instructions on altering your hosts file](https://support.microsoft.com/pt-pt/help/923947/you-cannot-modify-the-hosts-file-or-the-lmhosts-file-in-windows-vista,) here.
+
+The details that you need to add are the public IP address of your VPS server followed by the domain you want to use to reach that VPS.
+
+For the domains that I used in this guide, assuming that my VPS IP address is '111.111.111.111', I could add the following lines to the bottom of my hosts file:
+
+' 127.0.0.1   localhost
+127.0.1.1   guest-desktop
+111.111.111.111 example.com
+111.111.111.111 test.com '
+
+This will direct any requests for 'example.com' and 'test.com' on our computer and send them to our server at '111.111.111.111'. This is what we want if we are not actually the owners of these domains in order to test our virtual hosts.
+
+Save and close the file.
+
+## Step Seven — Test your Results 
+
+Now that you have your virtual hosts configured, you can test your setup easily by going to the domains that you configured in your web browser:
+
+' http://example.com '
+
+You should see a page that looks like this:
+
+Likewise, if you can visit your second page:
+
+' http://test.com '
+
+You will see the file you created for your second site:
+
+If both of these sites work well, you've successfully configured two virtual hosts on the same server.
+
+If you adjusted your home computer's hosts file, you may want to delete the lines you added now that you verified that your configuration works. This will prevent your hosts file from being filled with entries that are not actually necessary.
+
+If you need to access this long term, consider purchasing a domain name for each site you need and [setting it up to point to your VPS server] (https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean).
+
+## Conclusion
+
+If you followed along, you should now have a single server handling two separate domain names. You can expand this process by following the steps we outlined above to make additional virtual hosts.
+
+There is no software limit on the number of domain names Apache can handle, so feel free to make as many as your server is capable of handling.
