@@ -1,1 +1,20 @@
+
+# Name of your site (displayed in the header)
+name: System Configurations Helpers
+
+# Short bio or description (displayed in the header)
+description: Tiago Silva from Drible // Marketing Digital & Branding
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email:tiago.silva@drible.pt
+  facebook: agenciadrible
+  github: popperz0r/sys-config
+  twitter: popperz0r
+  
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://popperz0r.github.io/sys-config/
+baseurl: "/sys-config"
+
 theme: jekyll-theme-cayman
