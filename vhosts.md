@@ -228,3 +228,17 @@ If you need to access this long term, consider purchasing a domain name for each
 If you followed along, you should now have a single server handling two separate domain names. You can expand this process by following the steps we outlined above to make additional virtual hosts.
 
 There is no software limit on the number of domain names Apache can handle, so feel free to make as many as your server is capable of handling.
+
+New apache version has change in some way. If your apache version is 2.4 then you have to go to `/etc/apache2/`. There will be a file named `apache2.conf`. You have to edit that one(you should have root permission). Change directory text like this
+
+`````
+<Directory /var/www/>
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
+`````
+
+Now restart apache.
+
+`service apache2 reload`
