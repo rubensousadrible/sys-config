@@ -106,12 +106,12 @@ Ports:
  If you do not know what your server's public IP address is, there are a number of ways you can find it. Usually, this is the address you use to connect to your server through SSH.
  
  From the command line, you can find this a few ways. First, you can use the 'iproute2' tools to get your address by typing this:
- 'ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//''
+ ```ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'```
  
  This will give you two or three lines back. They are all correct addresses, but your computer may only be able to use one of them, so feel free to try each one.
  
  An alternative method is to use the curl utility to contact an outside party to tell you how it sees your server. You can do this by asking a specific server what your IP address is:
- 'sudo apt-get install curl
+ ```sudo apt-get install curl```
 curl http://icanhazip.com'
 Regardless of the method you use to get your IP address, you can type it into your web browser's address bar to get to your server.
 
