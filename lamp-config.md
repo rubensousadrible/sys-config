@@ -20,8 +20,11 @@ We can install Apache easily using Ubuntu's package manager, 'apt'. A package ma
 
 For our purposes, we can get started by typing these commands:
 
-'sudo apt-get update
-sudo apt-get install apache2'
+
+```
+sudo apt-get update
+sudo apt-get install apache2
+```
 
 Since we are using a 'sudo' command, these operations get executed with root privileges. It will ask you for your regular user's password to verify your intentions.
 
