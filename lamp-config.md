@@ -245,11 +245,11 @@ To enhance the functionality of PHP, we can optionally install some additional m
 
 To see the available options for PHP modules and libraries, you can pipe the results of 'apt-cache search' into 'less', a pager which lets you scroll through the output of other commands:
 
-'apt-cache search php- | less'
+```apt-cache search php- | less```
 Use the arrow keys to scroll up and down, and q to quit.
 
 The results are all optional components that you can install. It will give you a short description for each:
-'libnet-libidn-perl - Perl bindings for GNU Libidn
+```libnet-libidn-perl - Perl bindings for GNU Libidn
 php-all-dev - package depending on all supported PHP development packages
 php-cgi - server-side, HTML-embedded scripting language (CGI binary) (default)
 php-cli - command-line interpreter for the PHP scripting language (default)
@@ -258,17 +258,16 @@ php-curl - CURL module for PHP [default]
 php-dev - Files for PHP module development (default)
 php-gd - GD module for PHP [default]
 php-gmp - GMP module for PHP [default]
-�
-:'
+:```
 To get more information about what each module does, you can either search the internet, or you can look at the long description of the package by typing:
-'apt-cache show package_name'
+```apt-cache show package_name```
 There will be a lot of output, with one field called 'Description-en' which will have a longer explanation of the functionality that the module provides.
 
 For example, to find out what the 'php-cli' module does, we could type this:
 'apt-cache show php-cli'
 Along with a large amount of other information, you'll find something that looks like this:
 **Output**
-'�
+```
 Description-en: command-line interpreter for the PHP scripting language (default)
  This package provides the /usr/bin/php command interpreter, useful for
  testing PHP scripts from a shell or performing general shell scripting tasks.
@@ -279,13 +278,13 @@ Description-en: command-line interpreter for the PHP scripting language (default
  .
  This package is a dependency package, which depends on Debian's default
  PHP version (currently 7.0).
-�'
+```
 If, after researching, you decide you would like to install a package, you can do so by using the 'apt-get install' command like we have been doing for our other software.
 
 If we decided that 'php-cli' is something that we need, we could type:
-'sudo apt-get install php-cli'
+```sudo apt-get install php-cli```
 If you want to install more than one module, you can do that by listing each one, separated by a space, following the 'apt-get install' command, like this:
-'sudo apt-get install package1 package2 ...'
+```sudo apt-get install package1 package2 ...```
 At this point, your **LAMP** stack is installed and configured. We should still test out our PHP though.
 
 ## Step 4: Test PHP Processing on your Web Server
@@ -295,7 +294,7 @@ In order to test that our system is configured properly for PHP, we can create a
 We will call this script 'info.php'. In order for Apache to find the file and serve it correctly, it must be saved to a very specific directory, which is called the "web root".
 
 In Ubuntu 16.04, this directory is located at '/var/www/html/'. We can create the file at that location by typing:
-'sudo nano /var/www/html/info.php'
+```sudo nano /var/www/html/info.php```
 This will open a blank file. We want to put the following text, which is valid PHP code, inside the file:
 **info.php**
 '<?php
