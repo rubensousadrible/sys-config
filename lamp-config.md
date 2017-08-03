@@ -32,14 +32,14 @@ Once you've entered your password, 'apt' will tell you which packages it plans t
 
 ### Set Global ServerName to Suppress Syntax Warnings
 
-Next, we will add a single line to the '/etc/apache2/apache2.conf' file to suppress a warning message. While harmless, if you do not set 'ServerName' globally, you will receive the following warning when checking your Apache configuration for syntax errors:
-'sudo apache2ctl configtest'
+Next, we will add a single line to the `/etc/apache2/apache2.conf` file to suppress a warning message. While harmless, if you do not set 'ServerName' globally, you will receive the following warning when checking your Apache configuration for syntax errors:
+`sudo apache2ctl configtest`
 Output
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
-Syntax OK
+`AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+Syntax OK`
 
 Open up the main configuration file with your text edit:
-'sudo nano /etc/apache2/apache2.conf'
+`sudo nano /etc/apache2/apache2.conf`
 Inside, at the bottom of the file, add a 'ServerName' directive, pointing to your primary domain name. If you do not have a domain name associated with your server, you can use your server's public IP address:
 
 **Note**
