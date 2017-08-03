@@ -32,7 +32,7 @@ Once you've entered your password, 'apt' will tell you which packages it plans t
 
 ### Set Global ServerName to Suppress Syntax Warnings
 
-Next, we will add a single line to the `/etc/apache2/apache2.conf` file to suppress a warning message. While harmless, if you do not set 'ServerName' globally, you will receive the following warning when checking your Apache configuration for syntax errors:
+Next, we will add a single line to the `/etc/apache2/apache2.conf` file to suppress a warning message. While harmless, if you do not set `ServerName` globally, you will receive the following warning when checking your Apache configuration for syntax errors:
 `sudo apache2ctl configtest`
 Output
 `AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
@@ -51,7 +51,9 @@ ServerName server_domain_or_IP
 Save and close the file when you are finished.
 
 Next, check for syntax errors by typing:
-'sudo apache2ctl configtest'
+```
+sudo apache2ctl configtest
+```
 
 Since we added the global 'ServerName' directive, all you should see is:
 
@@ -59,13 +61,17 @@ Since we added the global 'ServerName' directive, all you should see is:
 Syntax OK
 
 Restart Apache to implement your changes:
-'sudo systemctl restart apache2'
+```
+sudo systemctl restart apache2
+```
 You can now begin adjusting the firewall.
 
 ### Adjust the Firewall to Allow Web Traffic
 
 Next, assuming that you have followed the initial server setup instructions to enable the UFW firewall, make sure that your firewall allows HTTP and HTTPS traffic. You can make sure that UFW has an application profile for Apache like so:
-'sudo ufw app list'
+```
+sudo ufw app list
+```
 
 **Output
 Available applications:**
@@ -85,7 +91,9 @@ Ports:
   80,443/tcp
   
  Allow incoming traffic for this profile:
- 'sudo ufw allow in "Apache Full"'
+ ```
+ sudo ufw allow in "Apache Full"
+ ```
  You can do a spot check right away to verify that everything went as planned by visiting your server's public IP address in your web browser (see the note under the next heading to find out what your public IP address is if you do not have this information already):
  'http://your_server_IP_address'
  You will see the default Ubuntu 16.04 Apache web page, which is there for informational and testing purposes. It should look something like this:
@@ -93,7 +101,7 @@ Ports:
  
  If you see this page, then your web server is now correctly installed and accessible through your firewall.
  
- ### How To Find your Server's Public IP Address
+  ### How To Find your Server's Public IP Address
  
  If you do not know what your server's public IP address is, there are a number of ways you can find it. Usually, this is the address you use to connect to your server through SSH.
  
