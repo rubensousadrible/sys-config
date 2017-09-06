@@ -15,9 +15,7 @@ Once you have a working LAMP Stack on your Ubuntu Server, you can proceed with w
 In order to generate and install your SSL certificate, you will need `Git` to clone the Let's Encrypt repository:
 
 `$[ubuntu] apt-get install git
-$[ubuntu] git clone https://github.com/letsencrypt/letsencrypt /opt/letsencrypt`
-
-This will download the Let's Encrypt installer to `/opt/letsencrypt`.
+$[ubuntu] git clone https://github.com/letsencrypt/letsencrypt`
 
 ## Step 2: Generating a Let's Encrypt SSL certificate
 
