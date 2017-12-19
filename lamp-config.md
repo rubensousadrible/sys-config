@@ -120,7 +120,13 @@ Regardless of the method you use to get your IP address, you can type it into yo
 Now that we have our web server up and running, it is time to install MySQL. MySQL is a database management system. Basically, it will organize and provide access to databases where our site can store information.
 
 Again, we can use apt to acquire and install our software. This time, we'll also install some other "helper" packages that will assist us in getting our components to communicate with each other:
-```sudo apt-get install mysql-server```
+```
+sudo apt-get install software-properties-common
+sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
+sudo add-apt-repository 'deb [arch=amd64,i386,ppc64el] http://mirrors.up.pt/pub/mariadb/repo/10.2/ubuntu xenial main'
+sudo apt update
+sudo apt install mariadb-server
+```
 
 **Note**: In this case, you do not have to run 'sudo apt-get update' prior to the command. This is because we recently ran it in the commands above to install Apache. The package index on our computer should already be up-to-date.
 Again, you will be shown a list of the packages that will be installed, along with the amount of disk space they'll take up. Enter **Y** to continue.
