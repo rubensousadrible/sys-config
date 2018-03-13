@@ -1,6 +1,6 @@
 ## Documentação para Estagiários
 Alterações
-Teste Username Password
+Teste User Password
 
 Todos os estagiários devem criar uma conta **Drible** com o seu primeiro nome seguido de .drible@gmail.com
 
