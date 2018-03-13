@@ -2,7 +2,6 @@
 Alterações
 Teste User Password
 
-
 Todos os estagiários devem criar uma conta **Drible** com o seu primeiro nome seguido de .drible@gmail.com
 
 _Exemplo_: bernardo.drible@gmail.com
