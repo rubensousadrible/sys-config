@@ -4,8 +4,6 @@
 
 ### [Web](/web)
 
-### [Primeiro Dia](/estagiarios/design/primeirodia)
-
 ### [How To Configure SSH Key-Based Authentication on a Linux Server](linux-server-ssh-key)
 
 ### [How to set up Virtual Hosts in Apache on macos Sierra and OSX](vhost-macos)
