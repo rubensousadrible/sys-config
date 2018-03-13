@@ -2,6 +2,6 @@
 
 ### [Repositórios](https://rubensousadrible.github.io/sys-config/estagiarios/web/repositorios)
 
-### [Git]https://rubensousadrible.github.io/sys-config/estagiarios/web/git)
+### [Git](https://rubensousadrible.github.io/sys-config/estagiarios/web/git)
 
 ### [Primeiras Configurações](https://rubensousadrible.github.io/sys-config/estagiarios/web/primeirasconfigs)
