@@ -1,8 +1,8 @@
 ### [Estagiários](/estagiarios)
 
-### [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](vhosts)
+### [Design](/design)
 
-### [Documentation Markdown](documentation-markdown)
+### [Web](/web)
 
 ### [Setup Let's Encrypt With Apache on Ubuntu 14.04](letsencrypt)
 
