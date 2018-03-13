@@ -1,8 +1,8 @@
-### [Estagiários](/sys-config/estagiarios)
+### [Estagiários](/sys-config/estagiarios/home)
 
-### [Design](/sys-config/design)
+### [Design](/sys-config/design/home)
 
-### [Web](/sys-config/web)
+### [Web](/sys-config/web/home)
 
 ### [How To Configure SSH Key-Based Authentication on a Linux Server](linux-server-ssh-key)
 
