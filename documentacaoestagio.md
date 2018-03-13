@@ -1,7 +1,7 @@
 ## Documentação para Estagiários
 Alterações
 
-Todos os estagiários devem criar uma conta **Drible** com o seu primeiro nome seguido de .drible@gmail.com
+Todos os estagiários devem criar uma conta **Drible** com o seu primeiro nome seguido de .drible@gmail.com  
 
 _Exemplo_: bernardo.drible@gmail.com
 
