@@ -1,4 +1,4 @@
-### [design](/estagiarios/design)
+### [Design](/estagiarios/design)
 
 
-### [web](/estagiarios/web)
+### [Web](/estagiarios/web)
