@@ -55,7 +55,7 @@ Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para 
 
 ### Solicita acesso ao Drive
 
-Clica no link a seguir e depois clica em "Solicitar Acesso" [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing)
+Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso" 
 
 Se tiveres alguma dúvida pergunta ao teu mentor
 
