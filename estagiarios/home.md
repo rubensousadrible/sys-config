@@ -58,7 +58,8 @@ Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para 
 Clica no link a seguir e depois clica em "Solicitar Acesso" l[Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing)
 
 Se tiveres alguma dúvida pergunta ao teu mentor
-__________________________________________________________________________________________________
+
+
 
 Se és estagiário da área de Web lê mais aqui:
 
