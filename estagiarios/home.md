@@ -21,7 +21,7 @@ O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o l
 
 ### Criar uma conta no **Slack**
 
-Vai ao teu Gmail da **Dible** e deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago. Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack. No site, preenche com a tua informação pessoal e aceita os termos. Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_ e fazes [download](https://slack.com/downloads/windows) do Slack. Instalas e ligas a app. A seguir aparece-te uma tela a pedir pelo teu workspace. Preenches com drible-interns@slack.com (o _@slack.com_ já está lá). Em seguida, colocas o teu e-mail e password e deverá estar tudo pronto.
+Vai ao teu Gmail da **Drible** e deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago. Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack. No site, preenche com a tua informação pessoal e aceita os termos. Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_ e fazes [download](https://slack.com/downloads/windows) do Slack. Instalas e ligas a app. A seguir aparece-te uma tela a pedir pelo teu workspace. Preenches com drible-interns@slack.com (o _@slack.com_ já está lá). Em seguida, colocas o teu e-mail e password e deverá estar tudo pronto.
 
 ### Quando chegares ao slack
 
@@ -46,12 +46,11 @@ O que te distingue dos outros indivíduos da tua classe?
 
 No Slack, no canto superior esquerdo está um texto que diz Drible Interns com uma seta para baixo. Clicas na seta e aparece a tua imagem de perfil e também aparece "Edit Status". Vais a "Edit Status" e aparece um espaço para emoji e para escrever. No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor. Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
+### Reunião com o teu mentor
 
+Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para trocarem ideias e também para se ficarem a conhecer melhor.
 
-. Hold your first one-on-one meeting
-Introduce your new hire by sharing a bit of their background. Explain what they’ll be working on and why you’re excited they’ve joined. Share the new hire’s 90-day plan with the rest of the team so they’ll know how best to help during this period of adjustment.
-
-. Confirm that your new hire can access your internal systems
+Confirm that your new hire can access your internal systems
 
 
 Se és estagiário da área de Web lê mais aqui:
