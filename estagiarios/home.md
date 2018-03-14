@@ -5,7 +5,15 @@
 ## Informações básicas
 ### Criação do E-mail Drible
 
-O email **Drible** deve ser criado para que te possam ser enviados ficheiro e também para poderes criar contas em programas que sejam utilizados na **Drible**. Tens os passos todos na [documentação para estagiários](/sys-config/estagiarios/design/documentacaoestagio).
+O email **Drible** deve ser criado para que te possam ser enviados ficheiro e também para poderes criar contas em programas que sejam utilizados na **Drible**. 
+
+Todos os estagiários devem criar uma conta de e-mail **Drible** com o seu primeiro nome seguido de .drible@gmail.com
+
+_Exemplo_: bernardo.drible@gmail.com
+
+Se o e-mail já estiver sido usado por outro estagiário ou tiver indisponível usar o primeiro e último nome ou usar primeiro nome, mês e ano de início de estágio (como preferível) seguido de .drible@gmail.com
+
+_Exemplo_: joaopereira.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ### Horário
 
@@ -17,5 +25,4 @@ O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o l
 
 ### Criar uma conta no **Slack**
 
-Cria uma conta no [Slack](https://join.slack.com/t/drible-interns/shared_invite/enQtMzI5ODg3MDI2Mjk0LTY1N2Q5YzdkM2Q2NjI3YTc0MWZkNGNmNmJiNmYwZGE0ZTY0NzNjYzRhODg2MTE4ODEwZjRhOTc5NDMyMDY1MTA) com o teu e-mail da **Drible** e junta-te ao grupo "Drible Interns". Em príncipio, deves ter recebido um e-mail na tua conta da Drible. Nesse e-mail clicas em _Join Now_ e juntar-te-ás ao grupo.
-Depois faz download da aplicação para o teu computador e já estará tudo pronto.
+Com o teu e-mail da Drible cria uma conta no [Slack](https://join.slack.com/t/drible-interns/shared_invite/enQtMzI5ODg3MDI2Mjk0LTY1N2Q5YzdkM2Q2NjI3YTc0MWZkNGNmNmJiNmYwZGE0ZTY0NzNjYzRhODg2MTE4ODEwZjRhOTc5NDMyMDY1MTA)
