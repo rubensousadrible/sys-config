@@ -1,4 +1,17 @@
 ## Informações básicas
+
+### Horário
+
+Horário da **Drible** é das 9h00 até ás 18h00, com intervalo de almoço da 13h00 às 14h00.
+
+### Almoço
+
+O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o local de trabalho, ou também pode ser feito num restaurante à escolha.
+
+### Trata dos papéis
+
+Os papéis de estágio devem ser assinados pelo Vítor Brandão e se possível tratar de comunicar com o mesmo para arranjar uma hora em que esteja disponível, para não perturbar o trabalho.
+
 ### Criação do E-mail Drible
 
 O email **Drible** deve ser criado para que te possam ser enviados ficheiro e também para poderes criar contas em programas que sejam utilizados na **Drible**.
@@ -11,14 +24,6 @@ Se o e-mail já estiver sido usado por outro estagiário ou tiver indisponível 
 
 _Exemplo_: joaopereira.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
-### Horário
-
-Horário da **Drible** é das 9h00 até ás 18h00, com intervalo de almoço da 13h00 às 14h00.
-
-### Almoço
-
-O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o local de trabalho, ou também pode ser feito num restaurante à escolha.
-
 ## Slack
 
 ### Criar uma conta no **Slack**
@@ -27,9 +32,9 @@ Vai ao teu Gmail da **Drible** e deverás ter recebido um e-mail da Slack (se n�
 
 ### Quando chegares ao slack
 
-### Trata dos papéis
+### Identifica o teu mentor
 
-Os papéis de estágio devem ser assinados pelo Vítor Brandão e se possível tratar de comunicar com o mesmo para arranjar uma hora em que esteja disponível, para não perturbar o trabalho
+No Slack, no canto superior esquerdo está um texto que diz Drible Interns com uma seta para baixo. Clicas na seta e aparece a tua imagem de perfil e também aparece "Edit Status". Vais a "Edit Status" e aparece um espaço para emoji e para escrever. No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor. Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
 ### Introduz-te
 
@@ -44,19 +49,16 @@ De onde és?
 Existem algum objeto ou adereço que significa muito para ti?
 O que te distingue dos outros indivíduos da tua classe?
 
-### Identifica o teu mentor
-
-No Slack, no canto superior esquerdo está um texto que diz Drible Interns com uma seta para baixo. Clicas na seta e aparece a tua imagem de perfil e também aparece "Edit Status". Vais a "Edit Status" e aparece um espaço para emoji e para escrever. No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor. Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
-
 ### Reunião com o teu mentor
 
 Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para trocarem ideias e também para se ficarem a conhecer melhor.
 
-### Solicita acesso ao mentor
+### Solicita acesso ao Drive
 
 Clica no link a seguir e depois clica em "Solicitar Acesso" l[Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing)
 
 Se tiveres alguma dúvida pergunta ao teu mentor
+__________________________________________________________________________________________________
 
 Se és estagiário da área de Web lê mais aqui:
 
