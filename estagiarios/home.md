@@ -6,10 +6,10 @@
 Bem-vindo à [**Drible**](https://www.drible.pt/), se não nos conheces, aqui trabalhamos em Desenvolvimento Web, Marketing Digital e Design Gráfico. Fomos fundados em 2015.
 Algumas das marcas que trabalham connosco e seus websites:
 
--[Yourself](https://www.yourselfapparel.pt/pt/[) (Comunicação, Loja Online, Redes Sociais)
--[OEspecialista](https://www.oespecialista.pt/) (Comunicação, Plataforma)
--[Closum](https://www.closum.com/) (Comunicação, Plataforma, Redes Sociais)
--[Boomfit](https://www.boomfit.eu/pt/) (Comunicação, Loja Online)
+- [Yourself](https://www.yourselfapparel.pt/pt/[) (Comunicação, Loja Online, Redes Sociais)
+- [OEspecialista](https://www.oespecialista.pt/) (Comunicação, Plataforma)
+- [Closum](https://www.closum.com/) (Comunicação, Plataforma, Redes Sociais)
+- [Boomfit](https://www.boomfit.eu/pt/) (Comunicação, Loja Online)
 
 
 ### Horário
