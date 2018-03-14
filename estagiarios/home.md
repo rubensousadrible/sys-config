@@ -41,14 +41,12 @@ Vai ao teu Gmail da **Dible** e deverás ter recebido um e-mail da Slack (se nã
         O que te distingue dos outros indivíduos da tua classe?
 
 
-4. Assign a Buddy
+4. Assign a Bud
 
 5. Hold your first one-on-one meeting
 Introduce your new hire by sharing a bit of their background. Explain what they’ll be working on and why you’re excited they’ve joined. Share the new hire’s 90-day plan with the rest of the team so they’ll know how best to help during this period of adjustment.
 
 6. Confirm that your new hire can access your internal systems
-
-
 
 
 Se és estagiário da área de Web lê mais aqui:
