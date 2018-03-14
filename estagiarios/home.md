@@ -40,9 +40,9 @@ _Exemplo_: joaopereira.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ### Criar uma conta no **Slack**
 
-- Vai ao teu Gmail da **Drible**
-- Deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago).
-- Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack.
+- 1º Vai ao teu Gmail da **Drible**
+- 2º Deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago).
+- 3º Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack.
 - No site, preenche com a tua informação pessoal e aceita os termos.
 - Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_  e
 - Em seguida, fazes [download](https://slack.com/downloads/windows) da app do Slack.
