@@ -1,4 +1,4 @@
-## Primeiro Dia
+## Informações básicas
 ### Criação do E-mail Drible
 
 O email **Drible** deve ser criado para que te possam ser enviados ficheiro e também para poderes criar contas em programas que sejam utilizados na **Drible**. Tens os passos todos na documentação para estagiários.
