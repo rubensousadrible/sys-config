@@ -59,10 +59,10 @@ Clica no link a seguir e depois clica em "Solicitar Acesso" [Link](https://drive
 
 Se tiveres alguma dúvida pergunta ao teu mentor
 
-####Se és estagiário da área de Web lê mais aqui:
+###Se és estagiário da área de Web lê mais aqui:
 
  [Web](/sys-config/estagiarios/web/home)
 
-####Se és estagiário da área de Design lê mais aqui:
+###Se és estagiário da área de Design lê mais aqui:
 
  [Design](/sys-config/estagiarios/design/home)
