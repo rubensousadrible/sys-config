@@ -8,27 +8,39 @@ Temos connosco:
 
 Yourself (Comunicação, Loja Online, Redes Sociais)
 
+
 OEspecialista (Comunicação, Plataforma)
+
 
 Closum (Comunicação, Plataforma, Redes Sociais)
 
+
 Boomfit (Comunicação, Loja Online)
+
 
 Mikado (Comunicação, Loja Online, Website)
 
+
 Fitness Up (Comunicação)
+
 
 Moreirense FC (Redes Sociais)
 
+
 Pina Ferreira (Website)
+
 
 Dote (Comunicação)
 
+
 Expoent (Comunicação, Website)
+
 
 Ellipse (Comunicação, Website)
 
+
 Macedo’s Seguros (Comunicação, Website)
+
 
 Carpirib (Website)
 
