@@ -6,43 +6,19 @@
 Bem-vindo à **Drible**, se não nos conheces, aqui trabalhamos em Desenvolvimento Web, Marketing Digital e Design Gráfico. Fomos fundados em 2015.
 Temos connosco:
 
-Yourself (Comunicação, Loja Online, Redes Sociais)
-
-
-OEspecialista (Comunicação, Plataforma)
-
-
-Closum (Comunicação, Plataforma, Redes Sociais)
-
-
-Boomfit (Comunicação, Loja Online)
-
-
-Mikado (Comunicação, Loja Online, Website)
-
-
-Fitness Up (Comunicação)
-
-
-Moreirense FC (Redes Sociais)
-
-
-Pina Ferreira (Website)
-
-
-Dote (Comunicação)
-
-
-Expoent (Comunicação, Website)
-
-
-Ellipse (Comunicação, Website)
-
-
-Macedo’s Seguros (Comunicação, Website)
-
-
-Carpirib (Website)
+-Yourself (Comunicação, Loja Online, Redes Sociais)
+-OEspecialista (Comunicação, Plataforma)
+-Closum (Comunicação, Plataforma, Redes Sociais)
+-Boomfit (Comunicação, Loja Online)
+-Mikado (Comunicação, Loja Online, Website)
+-Fitness Up (Comunicação)
+-Moreirense FC (Redes Sociais)
+-Pina Ferreira (Website)
+-Dote (Comunicação)
+-Expoent (Comunicação, Website)
+-Ellipse (Comunicação, Website)
+-Macedo’s Seguros (Comunicação, Website)
+-Carpirib (Website)
 
 
 ### Horário
