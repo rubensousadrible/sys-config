@@ -19,6 +19,7 @@ Horário da **Drible** é das 9h00 até ás 18h00, com intervalo de almoço da 1
 
 O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o local de trabalho, ou também pode ser feito num restaurante à escolha.
 
+## **Slack**
 ### Criar uma conta no **Slack**
 
 Vai ao teu Gmail da **Drible** e deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago. Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack. No site, preenche com a tua informação pessoal e aceita os termos. Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_ e fazes [download](https://slack.com/downloads/windows) do Slack. Instalas e ligas a app. A seguir aparece-te uma tela a pedir pelo teu workspace. Preenches com drible-interns@slack.com (o _@slack.com_ já está lá). Em seguida, colocas o teu e-mail e password e deverá estar tudo pronto.
