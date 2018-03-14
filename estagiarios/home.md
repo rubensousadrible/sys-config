@@ -1,3 +1,3 @@
-### [Estagiários](/sys-config/estagiarios/web/home)
+### [Web](/sys-config/estagiarios/web/home)
 
 ### [Design](/sys-config/estagiarios/design/home)
