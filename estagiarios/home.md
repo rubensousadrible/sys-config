@@ -23,6 +23,34 @@ O almoço pode ser feito aqui na **Drible** no rés do chão para não sujar o l
 
 Vai ao teu Gmail da **Dible** e deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago. Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack. No site, preenche com a tua informação pessoal e aceita os termos. Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_ e fazes [download](https://slack.com/downloads/windows) do Slack. Instalas e ligas a app. A seguir aparece-te uma tela a pedir pelo teu workspace. Preenches com drible-interns@slack.com (o _@slack.com_ já está lá). Em seguida, colocas o teu e-mail e password e deverá estar tudo pronto.
 
+### Quando chegares ao slack
+
+##### Trata dos papéis
+        Os papéis de estágio devem ser assinados pelo Vítor Brandão e se possível tratar de comunicar com o mesmo para arranjar uma hora em que esteja disponível, para não perturbar o trabalho
+
+##### Introduz-te
+        No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer uma pequena introdução tua:
+        Que atividade tem ou teve uma grande importância na tua vida? Conta a história
+        Qual é o teu principal objetivo pessoal?
+        Do que é que tu gostas muito? Quais os teus passatempos?
+        O que é que não gostas ou odeias? O que te repugna?
+        Desenvolves-te alguma habilidade muito especial?
+        Qual é o teu estilo de vida?
+        De onde és?
+        Existem algum objeto ou adereço que significa muito para ti?
+        O que te distingue dos outros indivíduos da tua classe?
+
+
+4. Assign a Buddy
+
+5. Hold your first one-on-one meeting
+Introduce your new hire by sharing a bit of their background. Explain what they’ll be working on and why you’re excited they’ve joined. Share the new hire’s 90-day plan with the rest of the team so they’ll know how best to help during this period of adjustment.
+
+6. Confirm that your new hire can access your internal systems
+
+
+
+
 Se és estagiário da área de Web lê mais aqui:
 
  [Web](/sys-config/estagiarios/web/home)
