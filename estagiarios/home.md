@@ -26,23 +26,27 @@ Vai ao teu Gmail da **Dible** e deverás ter recebido um e-mail da Slack (se nã
 ### Quando chegares ao slack
 
 ### Trata dos papéis
-        Os papéis de estágio devem ser assinados pelo Vítor Brandão e se possível tratar de comunicar com o mesmo para arranjar uma hora em que esteja disponível, para não perturbar o trabalho
+
+Os papéis de estágio devem ser assinados pelo Vítor Brandão e se possível tratar de comunicar com o mesmo para arranjar uma hora em que esteja disponível, para não perturbar o trabalho
 
 ### Introduz-te
 
-        No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer uma pequena introdução tua:
-        Que atividade tem ou teve uma grande importância na tua vida? Conta a história
-        Qual é o teu principal objetivo pessoal?
-        Do que é que tu gostas muito? Quais os teus passatempos?
-        O que é que não gostas ou odeias? O que te repugna?
-        Desenvolves-te alguma habilidade muito especial?
-        Qual é o teu estilo de vida?
-        De onde és?
-        Existem algum objeto ou adereço que significa muito para ti?
-        O que te distingue dos outros indivíduos da tua classe?
+No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer uma pequena introdução tua:
+Que atividade tem ou teve uma grande importância na tua vida? Conta a história
+Qual é o teu principal objetivo pessoal?
+Do que é que tu gostas muito? Quais os teus passatempos?
+O que é que não gostas ou odeias? O que te repugna?
+Desenvolves-te alguma habilidade muito especial?
+Qual é o teu estilo de vida?
+De onde és?
+Existem algum objeto ou adereço que significa muito para ti?
+O que te distingue dos outros indivíduos da tua classe?
+
+### Identifica o teu mentor
+
+No Slack, no canto superior esquerdo está um texto que diz Drible Interns com uma seta para baixo. Clicas na seta e aparece a tua imagem de perfil e também aparece "Edit Status". Vais a "Edit Status" e aparece um espaço para emoji e para escrever. No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor. Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
 
-. Assign a Bud
 
 . Hold your first one-on-one meeting
 Introduce your new hire by sharing a bit of their background. Explain what they’ll be working on and why you’re excited they’ve joined. Share the new hire’s 90-day plan with the rest of the team so they’ll know how best to help during this period of adjustment.
