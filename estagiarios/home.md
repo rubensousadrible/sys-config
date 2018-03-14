@@ -4,7 +4,7 @@
 
 
 Bem-vindo à **Drible**, se não nos conheces, aqui trabalhamos em Desenvolvimento Web, Marketing Digital e Design Gráfico. Fomos fundados em 2015.
-Temos connosco:
+A trabalhar connosco temos:
 
 - Yourself (Comunicação, Loja Online, Redes Sociais)
 - OEspecialista (Comunicação, Plataforma)
