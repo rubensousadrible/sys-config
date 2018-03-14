@@ -51,8 +51,11 @@ No Slack, no canto superior esquerdo está um texto que diz Drible Interns com u
 
 Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para trocarem ideias e também para se ficarem a conhecer melhor.
 
-Confirm that your new hire can access your internal systems
+### Solicita acesso ao mentor
 
+[Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing)
+
+Se tiveres alguma dúvida pergunta ao teu mentor
 
 Se és estagiário da área de Web lê mais aqui:
 
