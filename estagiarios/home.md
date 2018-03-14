@@ -1,5 +1,25 @@
 ## Informações básicas
 
+### Drible
+
+
+Bem-vindo à **Drible**, se não nos conheces, aqui trabalhamos em Desenvolvimento Web, Marketing Digital e Design Gráfico. Fomos fundados em 2015. Temos connosco:
+
+Yourself (Comunicação, Loja Online, Redes Sociais)
+OEspecialista (Comunicação, Plataforma)
+Closum (Comunicação, Plataforma, Redes Sociais)
+Boomfit (Comunicação, Loja Online)
+Mikado (Comunicação, Loja Online, Website)
+Fitness Up (Comunicação)
+Moreirense FC (Redes Sociais)
+Pina Ferreira (Website)
+Dote (Comunicação)
+Expoent (Comunicação, Website)
+Ellipse (Comunicação, Website)
+Macedo’s Seguros (Comunicação, Website)
+Carpirib (Website)
+
+
 ### Horário
 
 Horário da **Drible** é das 9h00 até ás 18h00, com intervalo de almoço da 13h00 às 14h00.
@@ -55,7 +75,7 @@ Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para 
 
 ### Solicita acesso ao Drive
 
-Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso" 
+Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso"
 
 Se tiveres alguma dúvida pergunta ao teu mentor
 
