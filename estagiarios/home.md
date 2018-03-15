@@ -89,7 +89,7 @@ No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer
 
 ### Reunião com o teu mentor
 
-No primeiro dia, marca com o teu mentor uma pequena reunião de 15 minutos para trocarem ideias e também para se ficarem a conhecer melhor.
+No primeiro dia, marca com o teu mentor uma reunião de 15 minutos para trocarem ideias e também para se ficarem a conhecer melhor.
 
 ### Solicita acesso ao Drive
 
