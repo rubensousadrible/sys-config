@@ -59,13 +59,13 @@ Ao visualizar ramos, normalmente eles são desenhados lateralmente para ocupar m
   ![Image](/sys-config/images/branching_exemplo1.png)
 Legenda: Trunk = tronco / Branch = ramo / Root = raíz
 
-Existe um tronco azul e um ramo verde. Existe várias alterações em ambos, mostrado cronologicamente da esquerda para a direita. O teu ramo começa no 2º tronco (Trunk #2). Enquanto trabalhas no teu ramo [alterações no 1º e 2º ramo(Branch #1 e Brnach #2)], alguém trabalhou diretamente no tronco [alterações no 3º e 4º tronco(Trunk #3 e Trunk #4)]. Essas alterações ainda não afetaram o teu ramo ainda, o teu ramo está desatualizado.
+Existe um tronco azul e um ramo verde. Existe várias alterações em ambos, mostrado cronologicamente da esquerda para a direita. O teu ramo começa no 2º tronco (Trunk #2). Enquanto trabalhas no teu ramo [ alterações no 1º e 2º ramo( Branch #1 e Brnach #2 )], alguém trabalhou diretamente no tronco [ alterações no 3º e 4º tronco( Trunk #3 e Trunk #4 )]. Essas alterações ainda não afetaram o teu ramo ainda, o teu ramo está desatualizado.
 
 ## Submeter as tuas alterações
 
-Agora tens as tuas alterações num ramo, o meu o teu objetivo é eventaulmente voltar a passar-los para o tronco como parte da “oficial” código base.
+Agora tens as tuas alterações num ramo, o meu o teu objetivo é eventualmente voltar a passar-los para o tronco como parte da “oficial” código base.
 
-Uma vez que testado as tuas alterações, precisarás de a partilhar com a tua "equipa". Isto é feito através de um Pull Request (PR) ou um Merge Request (MR) — são a mesma coisa, o termo apenas depende de que software estás a usar. Estás a pedir que as tuas alterações sejam alteradas e juntas ao código base.
+Uma vez que testado as tuas alterações, precisarás de a partilhar com a tua "equipa". Isto é feito através de um Pull Request (PR) ou um Merge Request (MR) — são a mesma coisa, o termo apenas depende de que software estás a usar (exemplo: GitHub). Estás a pedir que as tuas alterações sejam alteradas e convergidas com o código base.
 
   ![Image](/sys-config/images/branching_exemplo2.png)
 Legenda: Trunk = tronco / Branch = ramo / Root = raíz / Merge = convergir
