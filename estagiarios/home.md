@@ -42,6 +42,7 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 - Vai ao teu Gmail da **Drible**
 - Deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago).
+![Image](c:/images/slackregist_joinmail)
 - Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack.
 - No site, preenche com a tua informação pessoal e aceita os termos.
 - Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_.
@@ -70,7 +71,7 @@ Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor ident
 - Clica em Edit Profile.
 - Depois clica na imagem que está por baixo do texto "_profile photo_".
 - Clica em _upload an image_.
-- Seleciona a imagem que queres para foto de perfil.
+- Seleciona a imagem que queres para foto de perfil (Tem que ser uma imagem tua).
 
 
 ### Introduz-te
