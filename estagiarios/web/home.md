@@ -6,7 +6,7 @@ Nothing Written
 
 ### ATOM
 
-[Atom](https://atom.io/) é um editor de texto.
+[Atom](https://atom.io/) é um editor de texto, podes fazer download [aqui](https://atom.io/), vamos utilizar esta ferramenta mais a frente.
 
 #### O que é, para que serve e o que procurar num editor de texto?
 
@@ -63,44 +63,6 @@ Uma vez que testado as tuas alterações, precisarás de a partilhar com a tua "
 Legenda: Trunk = tronco / Branch = ramo / Root = raíz / Merge = convergir
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Como obter o git?
 
 [GitHub Desktop](https://desktop.github.com/) (para Windows e Mac)
-
-
-
-## Primeiras Configurações
-
-### Download do Atom
-
-Fazer download do [Atom](https://atom.io/)
-
-### Criar uma conta GitHub
-
-Criar uma conta no website [GitHub](https://github.com/)
