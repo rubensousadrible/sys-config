@@ -67,6 +67,7 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 ### Avatar
 
 Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor identificação das pessoas.
+
 - No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
   ![Image](/sys-config/images/status_editstatus.PNG)
 - Clica depois na imagem à esquerda do teu nome e vai te aparecer o teu perfil, no lado direito do Slack.
