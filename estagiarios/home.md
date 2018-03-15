@@ -57,7 +57,7 @@ _Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ### Identifica o teu mentor
 
-- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns" 
+- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns"
 - Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
@@ -84,6 +84,7 @@ No primeiro dia, marca com o teu mentor uma pequena reunião de 15 minutos para 
 ### Solicita acesso ao Drive
 
 Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso"
+
 **NOTA**: Verifica que o e-mail que usas para solicitar é o e-mail da Drible.
 
 Se tiveres alguma dúvida pergunta ao teu mentor
