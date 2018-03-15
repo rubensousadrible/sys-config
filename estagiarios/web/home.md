@@ -22,11 +22,6 @@ Editores de texto são frequentemente equipados com sistemas operacionais ou pac
 - Extensibilidade (que forneça algum mecanismo de plugin, ou que seja programável , para que um programador possa costumizar o editor com características adicionais).
 
 
-### GitHub
-
-[Github](https://desktop.github.com/) é um website que hospeda projetos que usam git.
-
-
 ## Git
 
 ### O que é um git?
