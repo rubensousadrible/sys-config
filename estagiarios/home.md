@@ -60,6 +60,7 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 - No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
   ![Image](/sys-config/images/status_editstatus.PNG)
 - Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto.
+  ![Image](/sys-config/images/status_statusinput.PNG)
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
