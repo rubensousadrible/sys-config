@@ -30,7 +30,7 @@ Git é um tipo de sistema de controlo de versões que torna mais fácil monitori
 
 É útil para coordenar trabalho entre múltiplas pessoas num projeto, e para monitorizar o progresso ao longo do tempo guardando "checkpoints".
 
-Existe vários tipos de alojamento online tais como o GitHub e o BitBucket.
+Existe vários tipos de alojamento online tais como o [GitHub](https://github.com/) e o [BitBucket](https://bitbucket.org/).
 
 ### Compreender o git
 
