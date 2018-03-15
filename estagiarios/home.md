@@ -42,7 +42,6 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 - Vai ao teu Gmail da **Drible**
 - Deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago).
-  ![Image](/sys-config/images/slackregist_joinmail.PNG)
 - Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack.
 - No site, preenche com a tua informação pessoal e aceita os termos.
 - Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_.
@@ -59,6 +58,7 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 ### Identifica o teu mentor
 
 - No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
+  ![Image](/sys-config/images/status_editstatus.PNG)
 - Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto.
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
