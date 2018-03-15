@@ -34,7 +34,7 @@ _Exemplo_: bernardo.drible@gmail.com
 
 Se o e-mail já estiver sido usado por outro estagiário ou tiver indisponível usar o primeiro e último nome ou usar primeiro nome, mês e ano de início de estágio (como preferível) seguido de .drible@gmail.com
 
-_Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
+_Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ## Slack
 
@@ -44,7 +44,7 @@ _Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 - Deverás ter recebido um e-mail da Slack (se não tiveres recebido fala com o Tiago).
 - Nesse e-mail clica em _Join Now_ e irá enviar-te para o site da Slack.
 - No site, preenche com a tua informação pessoal e aceita os termos.
-- Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_  e
+- Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_.
 - Em seguida, fazes [download](https://slack.com/downloads/windows) da app do Slack.
 - Instalas e ligas a app.
 - Assim que ligares, a app irá te pedir pelo teu workspace.
@@ -57,8 +57,8 @@ _Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ### Identifica o teu mentor
 
-- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns"
-- Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto
+- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
+- Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto.
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
@@ -67,7 +67,7 @@ _Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 ### Introduz-te
 
 No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer uma pequena introdução tua:
-- Que atividade tem ou teve uma grande importância na tua vida? Conta a história
+- Que atividade tem ou teve uma grande importância na tua vida? Conta a história.
 - Qual é o teu principal objetivo pessoal?
 - Do que é que tu gostas muito? Quais os teus passatempos?
 - O que é que não gostas ou odeias? O que te repugna?
@@ -83,11 +83,11 @@ No primeiro dia, marca com o teu mentor uma pequena reunião de 15 minutos para 
 
 ### Solicita acesso ao Drive
 
-Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso"
+Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso".
 
 **NOTA**: Verifica que o e-mail que usas para solicitar é o e-mail da Drible.
 
-Se tiveres alguma dúvida pergunta ao teu mentor
+Se tiveres alguma dúvida pergunta ao teu mentor.
 
 #### Se és estagiário da área de Web lê mais aqui:
 
