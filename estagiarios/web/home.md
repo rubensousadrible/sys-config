@@ -59,7 +59,7 @@ Ao visualizar ramos, normalmente eles são desenhados lateralmente para ocupar m
   ![Image](/sys-config/images/branching_exemplo1.png)
 Legenda: Trunk = tronco / Branch = ramo / Root = raíz
 
-Existe um tronco azul e um ramo verde. Existe várias alterações em ambos, mostrado cronologicamente da esquerda para a direita. O teu ramo começa no 2º tronco (Trunk #2). Enquanto trabalhas no teu ramo [ alterações no 1º e 2º ramo( Branch #1 e Brnach #2 )], alguém trabalhou diretamente no tronco [ alterações no 3º e 4º tronco( Trunk #3 e Trunk #4 )]. Essas alterações ainda não afetaram o teu ramo ainda, o teu ramo está desatualizado.
+Existe um tronco azul e um ramo verde. Existe várias alterações em ambos, mostrado cronologicamente da esquerda para a direita. O teu ramo começa no 2º tronco (Trunk #2). Enquanto trabalhas no teu ramo [ alterações no 1º e 2º ramo ( Branch #1 e Brnach #2 )], alguém trabalhou diretamente no tronco [ alterações no 3º e 4º tronco ( Trunk #3 e Trunk #4 )]. Essas alterações ainda não afetaram o teu ramo ainda, o teu ramo está desatualizado.
 
 ## Submeter as tuas alterações
 
