@@ -69,9 +69,9 @@ Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor ident
 - Clica depois na imagem à esquerda do teu nome e vai te aparecer o teu perfil, no lado direito do Slack
 - Clica em Edit Profile
 - Depois clica na imagem que está por baixo do texto "_profile photo_".
-- Clica em upload an image
+- Clica em _upload an image_
 - Seleciona a imagem que queres para foto de perfil
- 
+
 
 ### Introduz-te
 
