@@ -1,17 +1,47 @@
-### [Introdução à Web](/sys-config/estagiarios/web/introducaoweb)
+## Introdução à Web
 
+Nothing Written
 
-### [Repositório](/sys-config/estagiarios/web/repositorios)
+## Repositório
 
-### [Git](/sys-config/estagiarios/web/git)
+Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador.
 
-### [Primeiras Configurações](/sys-config/estagiarios/web/primeirasconfigs)
+## Git
+
+### O que é um git?
+
+Git é um sistema de controlo de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+
+Cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central.
+
+## Primeiras Configurações
+
+### Download do Atom
+
+Fazer download do [Atom](https://atom.io/)
+
+### Criar uma conta GitHub
+
+Criar uma conta no website [GitHub](https://github.com/)
 
 ##Ferramentas Necessárias
 
 ### ATOM
 
-[Atom](https://atom.io/) é um editor de texto de código aberto disponível para as plataformas Linux, macOS e Microsoft Windows, desenvolvido pelo GitHub sob a licença MIT. A ferramenta foi criada usando Electron e tecnologias web como HTML, JavaScript e CSS.
+[Atom](https://atom.io/) é um editor de texto.
+
+#### O que é, para que serve e o que procurar num editor de texto?
+
+Essencialmente, um editor de texto é um programa que te permite criar e editar variadas linguagens de programação.
+
+Editores de texto são frequentemente equipados com sistemas operacionais ou pacotes de desenvolvimento de software, e pode ser usado para alterar arquivos de configuração e linguagem de programação de código fonte.
+
+- Fácil de usar e navegar.
+- Ferramenta de encontrar e mudar (para que possas uma mudar uma palavra no ficheiro inteiro sem muito esforço).
+- Cortar, copiar e colar.
+- Syntax highlighting (torna mais fácil ler o código e encontrar algum erro).
+- Aparência Customizável (tal como mudar a fonte da letra, esquema de cores, etc., do teu editor).
+- Extensibilidade (que forneça algum mecanismo de plugin, ou que seja programável , para que um programador possa costumizar o editor com características adicionais).
 
 
 ### GitHub
