@@ -21,10 +21,11 @@ Editores de texto são frequentemente equipados com sistemas operacionais ou pac
 - Aparência Customizável (tal como mudar a fonte da letra, esquema de cores, etc., do teu editor).
 - Extensibilidade (que forneça algum mecanismo de plugin, ou que seja programável , para que um programador possa costumizar o editor com características adicionais).
 
-
 ### GitHub
 
 [Github](https://desktop.github.com/) é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores ou quaisquer utilizadores registados na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+
 ## Repositório
 
 Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador.
