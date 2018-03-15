@@ -62,7 +62,16 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
+### Avatar
 
+Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor identificação das pessoas.
+- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
+- Clica depois na imagem à esquerda do teu nome e vai te aparecer o teu perfil, no lado direito do Slack
+- Clica em Edit Profile
+- Depois clica na imagem que está por baixo do texto "_profile photo_".
+- Clica em upload an image
+- Seleciona a imagem que queres para foto de perfil
+ 
 
 ### Introduz-te
 
