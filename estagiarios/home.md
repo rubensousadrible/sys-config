@@ -68,12 +68,14 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor identificação das pessoas.
 - No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns".
+  ![Image](/sys-config/images/status_editstatus.PNG)
 - Clica depois na imagem à esquerda do teu nome e vai te aparecer o teu perfil, no lado direito do Slack.
 - Clica em _Edit Profile_.
+  ![Image](/sys-config/images/status_editprofile.PNG)
 - Depois clica na imagem que está por baixo do texto "_profile photo_".
 - Clica em _upload an image_.
+  ![Image](/sys-config/images/status_uploadimage.PNG)
 - Seleciona a imagem que queres para foto de perfil (Tem que ser uma imagem tua).
-
 
 ### Introduz-te
 
