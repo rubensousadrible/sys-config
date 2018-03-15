@@ -65,4 +65,6 @@ Legenda: Trunk = tronco / Branch = ramo / Root = raíz / Merge = convergir
 
 ### Como obter o git?
 
-[GitHub Desktop](https://desktop.github.com/) (para Windows e Mac)
+[GitHub Desktop](https://desktop.github.com/) (para Windows e Mac
+
+#### Agora vamos por isto tudo em prática.  Clica [aqui](/sys-config/estagiarios/web/hello-drible) 
