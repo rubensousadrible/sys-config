@@ -57,24 +57,29 @@ _Exemplo_: rubensousa.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 
 ### Identifica o teu mentor
 
-No Slack, no canto superior esquerdo está um texto que diz Drible Interns com uma seta para baixo. Clicas na seta e aparece a tua imagem de perfil e também aparece "Edit Status". Vais a "Edit Status" e aparece um espaço para emoji e para escrever. No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor. Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
+- No canto superior esquerdo do Slack, clica na seta que está junto a "Drible Interns" 
+- Depois clica em "Edit Status" e verás uma parte para selecionar emoji e outra para colocar um texto
+- No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
+- Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
+
+
 
 ### Introduz-te
 
 No Slack, existe um canal chamado "#self-introductions". Nesse canal deves fazer uma pequena introdução tua:
-Que atividade tem ou teve uma grande importância na tua vida? Conta a história
-Qual é o teu principal objetivo pessoal?
-Do que é que tu gostas muito? Quais os teus passatempos?
-O que é que não gostas ou odeias? O que te repugna?
-Desenvolves-te alguma habilidade muito especial?
-Qual é o teu estilo de vida?
-De onde és?
-Existem algum objeto ou adereço que significa muito para ti?
-O que te distingue dos outros indivíduos da tua classe?
+- Que atividade tem ou teve uma grande importância na tua vida? Conta a história
+- Qual é o teu principal objetivo pessoal?
+- Do que é que tu gostas muito? Quais os teus passatempos?
+- O que é que não gostas ou odeias? O que te repugna?
+- Desenvolves-te alguma habilidade muito especial?
+- Qual é o teu estilo de vida?
+- De onde és?
+- Existem algum objeto ou adereço que significa muito para ti?
+- O que te distingue dos outros indivíduos da tua classe?
 
 ### Reunião com o teu mentor
 
-Marca com o teu mentor, uma pequena reunião de 15 minutos no primeiro dia para trocarem ideias e também para se ficarem a conhecer melhor.
+No primeiro dia, marca com o teu mentor uma pequena reunião de 15 minutos para trocarem ideias e também para se ficarem a conhecer melhor.
 
 ### Solicita acesso ao Drive
 
