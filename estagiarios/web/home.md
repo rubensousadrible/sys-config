@@ -21,22 +21,29 @@ Editores de texto são frequentemente equipados com sistemas operacionais ou pac
 - Aparência Customizável (tal como mudar a fonte da letra, esquema de cores, etc., do teu editor).
 - Extensibilidade (que forneça algum mecanismo de plugin, ou que seja programável , para que um programador possa costumizar o editor com características adicionais).
 
-### GitHub
-
-[Github](https://desktop.github.com/) é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores ou quaisquer utilizadores registados na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
-
 
 ## Repositório
 
 Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador.
 
+
+### GitHub
+
+[Github](https://desktop.github.com/) é um website que hospeda projetos que usam git.
+
+
 ## Git
 
 ### O que é um git?
 
-Git é um sistema de controlo de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+Git é um tipo de sistema de controlo de versões que torna mais fácil monitorizar as alterações no ficheiro. Por exemplo, quando editas um ficheiro, git pode ajudar te a determinar exatamento oque mudou, quando mudou e porquê.
+É útil para coordenar trabalho entre múltiplas pessoas num projeto, e para monitorizar o progresso ao longo do tempo guardando "checkpoints".
 
-Cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central.
+### Como obter o git?
+
+[GitHub Desktop](https://desktop.github.com/) (para Windows e Mac)
+
+
 
 ## Primeiras Configurações
 
