@@ -2,28 +2,6 @@
 
 Nothing Written
 
-## Repositório
-
-Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador.
-
-## Git
-
-### O que é um git?
-
-Git é um sistema de controlo de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
-
-Cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central.
-
-## Primeiras Configurações
-
-### Download do Atom
-
-Fazer download do [Atom](https://atom.io/)
-
-### Criar uma conta GitHub
-
-Criar uma conta no website [GitHub](https://github.com/)
-
 ## Ferramentas Necessárias
 
 ### ATOM
@@ -47,3 +25,24 @@ Editores de texto são frequentemente equipados com sistemas operacionais ou pac
 ### GitHub
 
 [Github](https://desktop.github.com/) é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores ou quaisquer utilizadores registados na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+## Repositório
+
+Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador.
+
+## Git
+
+### O que é um git?
+
+Git é um sistema de controlo de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+
+Cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central.
+
+## Primeiras Configurações
+
+### Download do Atom
+
+Fazer download do [Atom](https://atom.io/)
+
+### Criar uma conta GitHub
+
+Criar uma conta no website [GitHub](https://github.com/)
