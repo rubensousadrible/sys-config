@@ -51,7 +51,7 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 - Preenches com **drible-interns** (o _.slack.com_ já está lá).
 - Colocas o teu e-mail e password novamente e deverá estar tudo pronto.
 
-**NOTA**:O Slack é para ser aberto todas as manhãs
+**NOTA**: O Slack é para ser aberto todas as manhãs.
 
 ### Quando chegares ao slack
 
