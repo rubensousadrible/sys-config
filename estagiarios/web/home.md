@@ -56,7 +56,7 @@ A solução é branching(ramificar). Em vez de te comprometeres ao tronco, crias
 
 Ao visualizar ramos, normalmente eles são desenhados lateralmente para ocupar menos espaço. Imagina que o seguinte é uma árvore, tombada, com as raízes á esquerda. Cada círculo é uma alteração. Quanto mais para a direita o círculo é, mais recentemente foi alterado:
 
-  ![Image](/sys-config/images/branching_exemplo1)
+  ![Image](/sys-config/images/branching_exemplo1.png)
 
 
 
