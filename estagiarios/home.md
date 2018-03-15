@@ -75,7 +75,7 @@ Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor ident
   ![Image](/sys-config/images/status_editprofile.PNG)
 - Depois clica na imagem que está por baixo do texto "_profile photo_".
 - Clica em _upload an image_.
-  ![Image](/sys-config/images/status_uploadimage.PNG)
+  ![Image](/sys-config/images/status_uploadimage.png)
 - Seleciona a imagem que queres para foto de perfil (Tem que ser uma imagem tua).
 
 ### Introduz-te
