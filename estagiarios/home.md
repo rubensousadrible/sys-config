@@ -108,7 +108,7 @@ No primeiro dia, marca com o teu mentor uma reunião de 15 minutos para trocarem
 
 Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso".
 
-**NOTA**: Verifica que o e-mail que usas para solicitar é o e-mail da Drible.
+**NOTA**: Verifica que o e-mail que usas para solicitar é o email da Drible.
 
 Se tiveres alguma dúvida pergunta ao teu mentor.
 
