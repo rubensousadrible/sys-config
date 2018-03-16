@@ -48,13 +48,13 @@ Assim que fizeres isto, essencialmente disseste ao Git, “Okay, eu guardei as m
 
 Agora já deves ter o clone do fork no teu Atom. Para teres certeza de que funcionou, a tua pasta deve ficar parecida a como ficou a pasta abaixo.
 
-  ![Image](/sys-config/images/clone_clonebutton.PNG)
+  ![Image](/sys-config/images/atom_folderexample.PNG)
 
 
 
 ## Issues
 
-Vamos agora começar a fazer alterações no código. Para isso tens que escolher 5 tarefas nos issues e corrigir o que elas tem de errado. Para cada issue faz 1 commit relacionada com o issue. 
+Vamos agora começar a fazer alterações no código. Para isso tens que escolher 5 tarefas nos issues e corrigir o que elas tem de errado. Para cada issue faz 1 commit relacionada com o issue.
 
 Segue este [link](https://github.com/popperz0r/drible/issues) que te vai levar a uma pasta com certos problemas no fork. Com o que aprendeste de git , resolve esses problemas.
 
