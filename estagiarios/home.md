@@ -41,7 +41,8 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 ### Criar uma conta no **Slack**
 
 - Clica neste [link](https://join.slack.com/t/drible-interns/shared_invite/enQtMzI5ODg3MDI2Mjk0LTY1N2Q5YzdkM2Q2NjI3YTc0MWZkNGNmNmJiNmYwZGE0ZTY0NzNjYzRhODg2MTE4ODEwZjRhOTc5NDMyMDY1MTA)
-- No site, preenche com a tua informação pessoal e aceita os termos.
+- Coloca o teu e-mail onde é pedido e vai ao Gmail confirmar o teu e-mail
+- Em seguida, preenche com a tua informação pessoal e aceita os termos.
 - Depois vai-te pedir para convidares outros e-mails, aí clicas em _Skip For Now_.
 - Em seguida, fazes [download](https://slack.com/downloads/windows) da app do Slack.
 - Instalas e ligas a app.
