@@ -67,6 +67,8 @@ _Exemplo_: joseazevedo.drible@gmail.com / alexandrejaneiro2016.drible@gmail.com
 - No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.
 - Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.
 
+**NOTA**= se ainda não tens um mentor atribuido, não te preocupes que vamos tratar disso e procede para o passo seguinte.
+
 ### Avatar
 
 Escolhe uma foto ou um avatar e coloca como tua foto de perfil para melhor identificação das pessoas.
@@ -123,4 +125,4 @@ Se tiveres alguma dúvida pergunta ao teu mentor.
 
 #### Se és estagiário da área de Marketing Digital lê mais aqui:
 
-  [Marketing Digital](/sys-config/estagiarios/marketingdigital/home)
+ [Marketing Digital](/sys-config/estagiarios/marketingdigital/home)
