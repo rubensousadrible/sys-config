@@ -2,7 +2,7 @@
 
 Para começar, tens que criar uma conta no [Github](https://github.com/join)
 
-Em. Seguida, tens que fazer [download](https://desktop.github.com/) do GitHub
+Em Seguida, tens que fazer [download](https://desktop.github.com/) do GitHub
 
 ### Fork
 
