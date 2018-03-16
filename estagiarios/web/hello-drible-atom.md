@@ -18,3 +18,4 @@ Segue este [link](https://github.com/popperz0r/drible/issues) que te vai levar a
 - Onde diz "Description", podes descrever o que fizeste (não obrigatório).
 - Quando terminares os passos anteriores clicas em "Commit to gh-pages".
 - E depois em cima clica em "Push to origin"
+- Verifica se tens o commit guardado no repositório
