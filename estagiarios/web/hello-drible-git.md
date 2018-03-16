@@ -24,8 +24,10 @@ Para dar fork num repositório, clica no botão _fork_ localizado acima do repos
   ![Image](/sys-config/images/clone_clonebutton.PNG)
 - Depois clica em "Open in Desktop". Isto abrir-te-á o GitHub Desktop.
   ![Image](/sys-config/images/clone_opendesktop.PNG)
-- Seleciona onde o gostarias de guardar no teu computador.
+- Cria uma pasta com o nome "**Drible**" no teu disco.
+- Guarda o diretório da pasta "**Drible**"
 - Clica em Clone.
+- Seleciona a pasta "**Drible**" para guardares o clone.
 
 ### Fazer alterações e dar "push" a elas
 

@@ -109,7 +109,7 @@ No primeiro dia, marca com o teu mentor uma reunião de 15 minutos para trocarem
 
 Clica no [Link](https://drive.google.com/drive/folders/1wI8Tp7b-cEZP24jM-nXelgEg0w1RKX3O?usp=sharing) e depois clica em "Solicitar Acesso".
 
-**NOTA**: Verifica que o e-mail que usas para solicitar é o email da Drible.
+**NOTA**: Verifica que o e-mail que usas para solicitar é o email da Drible. E depois de pedires acesso continua com os passos, o pedido será aceitado brevemente.
 
 Se tiveres alguma dúvida pergunta ao teu mentor.
 
@@ -120,3 +120,7 @@ Se tiveres alguma dúvida pergunta ao teu mentor.
 #### Se és estagiário da área de Design lê mais aqui:
 
  [Design](/sys-config/estagiarios/design/home)
+
+#### Se és estagiário da área de Marketing Digital lê mais aqui:
+
+  [Marketing Digital](/sys-config/estagiarios/marketingdigital/home)
