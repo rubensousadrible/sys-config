@@ -49,7 +49,7 @@ Assim que fizeres isto, essencialmente disseste ao Git, “Okay, eu guardei as m
 Agora já deves ter o clone do fork no teu Atom. Para teres certeza de que funcionou, a tua pasta deve ficar parecida a como ficou a pasta abaixo.
 
   ![Image](/sys-config/images/atom_folderexample.PNG)
-
+ASD
 
 ## Issues
 
