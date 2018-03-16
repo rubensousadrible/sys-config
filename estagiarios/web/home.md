@@ -1,5 +1,3 @@
-# [CONCEITOS TEST](/sys-config/estagiarios/web/conceitos)
-
 ## Introdução à Web
 
 Nothing Written
