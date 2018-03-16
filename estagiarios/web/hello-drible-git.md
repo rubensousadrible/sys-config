@@ -18,9 +18,14 @@ Para dar fork num repositório, clica no botão _fork_ localizado acima do repos
 
 #### Dá clone ao teu fork
 
-Tu deste fork ao repositório com sucesso, mas para já, apenas existe no GitHub. Para ser capaz de trabalhar no projeto, precisarás de cloná-lo para o teu computador.
-
-No teu fork do repositório, navega até à barra lateral direita e clica em _Clone or Download_. Como tu clonas está à tua escolha.
+- Entra na tua conta em [GitHub.com](https://github.com/) e no GitHub Desktop.
+- No GitHub.com, navega até à barra de codificação do teu repositório.
+- No lado direito do ecrã, clica em "Clone or download".
+  ![Image](/sys-config/images/clone_clonebutton.PNG)
+- Depois clica em "Open in Desktop". Isto abrir-te-á o GitHub Desktop.
+  ![Image](/sys-config/images/clone_opendesktop.PNG)
+- Seleciona onde o gostarias de guardar no teu computador.
+- Clica em Clone.
 
 ### Fazer alterações e dar "push" a elas
 
