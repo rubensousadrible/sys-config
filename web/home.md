@@ -13,3 +13,14 @@
 ### [How to set up Virtual Hosts in Apache on macos Sierra and OSX](/sys-config/web/vhost-macos)
 
 ### [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](/sys-config/web/vhosts)
+
+
+## Menu:
+- [Estagiários](/sys-config/estagiarios/home)
+  - [Design](/sys-config/estagiarios/design/home)
+  - [Marketing Digital](/sys-config/estagiarios/marketingdigital/home)
+  - [Web](/sys-config/estagiarios/web/home)
+    - [Hello Drible](/sys-config/estagiarios/web/hello-drible)        
+- [Web](/sys-config/web/home)
+- [Design](/sys-config/design/home)
+- [Marketing Digital](/sys-config/web/home)

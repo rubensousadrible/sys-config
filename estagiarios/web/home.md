@@ -68,3 +68,14 @@ Legenda: Trunk = tronco / Branch = ramo / Root = raíz / Merge = convergir
 [GitHub Desktop](https://desktop.github.com/) (para Windows e Mac)
 
 #### Agora vamos por isto tudo em prática. Clica [aqui](/sys-config/estagiarios/web/hello-drible)
+
+
+## Menu:
+- [Estagiários](/sys-config/estagiarios/home)
+  - [Design](/sys-config/estagiarios/design/home)
+  - [Marketing Digital](/sys-config/estagiarios/marketingdigital/home)
+  - [Web](/sys-config/estagiarios/web/home)
+    - [Hello Drible](/sys-config/estagiarios/web/hello-drible)        
+- [Web](/sys-config/web/home)
+- [Design](/sys-config/design/home)
+- [Marketing Digital](/sys-config/web/home)
