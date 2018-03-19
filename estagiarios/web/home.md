@@ -78,4 +78,4 @@ Legenda: Trunk = tronco / Branch = ramo / Root = raíz / Merge = convergir
     - [Hello Drible](/sys-config/estagiarios/web/hello-drible)        
 - [Web](/sys-config/web/home)
 - [Design](/sys-config/design/home)
-- [Marketing Digital](/sys-config/web/home)
+- [Marketing Digital](/sys-config/marketingdigital/home)

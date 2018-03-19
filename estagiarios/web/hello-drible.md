@@ -172,4 +172,4 @@ Existe um plugin no Atom chamado "Merge-Conflicts" que te pode ajudar com isto. 
     - [Hello Drible](/sys-config/estagiarios/web/hello-drible)        
 - [Web](/sys-config/web/home)
 - [Design](/sys-config/design/home)
-- [Marketing Digital](/sys-config/web/home)
+- [Marketing Digital](/sys-config/marketingdigital/home)
