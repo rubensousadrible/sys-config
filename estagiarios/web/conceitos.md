@@ -31,7 +31,7 @@ Ao abrires este [link](https://github.com/popperz0r/drible/issues), vai-te levar
 
 Para fazeres um branch basta ires ao canto inferior direito do Atom e clicar no botão á direita das setas. Em princípio esse botão deve ter um nome do género "master" ou assim.
 
-[Image](/sys-config/images/branch_howto.PNG)
+![Image](/sys-config/images/branch_howto.PNG)
 
 ## Alteração de código
 
