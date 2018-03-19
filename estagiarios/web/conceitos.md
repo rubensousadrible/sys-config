@@ -44,9 +44,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
   Para colocar cabeçalhos ou títulos apenas é preciso um cardinal antes do texto que queremos como cabeçalho. Quanto mais cardinais tiver , menor será o título. Ou seja, no exemplo a seguir o "Header 1" será o maior dos títulos e o "Header 3" o menor.
 
   Ex:
-          # Header 1 (Sem edição)
-          ## Header 2 (Sem edição)
-          ### Header 3 (Sem edição)
+          # Header 1 (Sem edição) / ## Header 2 (Sem edição) / ### Header 3 (Sem edição)
 
 # Header 1
 ## Header 2
@@ -57,12 +55,14 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
 
   Ex:         
         -Lista (Sem edição)
+
         - Lista Editada
 
 -Lista numérica
   Para criar uma lista númerica basta adicionar-mos o número, um ponto e um espaço antes do que queremos escrever:
 
         1.Lista (Sem edição)
+
         2. Lista Numérica Editada
 
 -Negrito e Itálico
@@ -81,8 +81,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
 Para colocar um link colocamos o texto que queremos dentro de parênteses retos e colocamos o URL que queremos que nos leve dentro de parênteses normais e não deixar espaço.
 
   Ex:
-        [Link] (Url) (Sem edição)
-        [Link](Url)
+        [Link] (Url) (Sem edição) / [Link](Url)
 
 **Obs**: O link não leva a lado nenhum porque não coloquei o URL
 
@@ -90,6 +89,7 @@ Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e
 
   Ex:
         ![Image] (source)
+
         ![Image](src)
 
 **Obs**: Não aparece nenhuma imagem porque não coloquei uma source
