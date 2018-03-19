@@ -90,8 +90,6 @@ Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e
   Ex:
         ![Image] (source)
 
-        ![Image](src)
-
 **Obs**: Não aparece nenhuma imagem porque não coloquei uma source
 
 ## Commit
