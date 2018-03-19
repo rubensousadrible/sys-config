@@ -29,12 +29,9 @@ Ao abrires este [link](https://github.com/popperz0r/drible/issues), vai-te levar
 
 ## Branch
 
-- Vai ao teu repositório.
-- Clica na seta para baixo no topo da lista de ficheiro que diz branch: master.
-- Escreve o nome do teu branch, na textbox que diz "Find or create branch".
-- Seleciona a opção azul "Create branch" ou clica “Enter” no teu teclado.
+Para fazeres um branch basta ires ao canto inferior direito do Atom e clicar no botão á direita das setas. Em princípio esse botão deve ter um nome do género "master" ou assim.
 
-  <a href="https://imgflip.com/gif/26ohwi"><img src="https://i.imgflip.com/26ohwi.gif" title="made at imgflip.com"/></a>
+[Image](/sys-config/images/branch_howto.PNG)
 
 ## Alteração de código
 
