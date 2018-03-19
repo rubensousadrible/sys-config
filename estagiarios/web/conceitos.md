@@ -92,23 +92,45 @@ Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e
 
 ## Commit
 
-Um commit refere-se a submeter as últimas alterações do código fonte ao repositório e fazer com que estas alterações se tornem parte da versão principal do repositório. Deste modo, quando outros utilizadores fazem um UPDATE do repositório, eles receberão a versão enviada mais recentemente.
+Um commit refere-se a submeter alterações do código fonte ao repositório e fazer com que estas alterações se tornem parte da versão principal do repositório. Deste modo, quando outros utilizadores fazem um UPDATE do repositório, eles receberão a versão enviada mais recentemente.
 
 Para dar commit às tuas alterações basta:
 
 - Verificar que todas as alterações estão corretas.
 - Dar Ctrl + S no separador onde fizeste as alterações.
 - No lado direito do ecrã, clicar em "Stage All".
-- Depois onde diz "Commit message", coloca lá um resumo das alterações que fizeste
-- Clica em Commit
-
-## Pull
-
+- Depois onde diz "Commit message", coloca lá um resumo das alterações que fizeste.
+- Clica em Commit.
 
 ## Push
 
+Depois de dares commit às tuas alterações, o "Push" envia o teu codigo para ser atualizado no repositório. Para dar push basta clicares nas setas abaixo do botão "Commit" e clicar em "Push".
+
+## Pull
+
+O "Pull" serve para atualizar o teu repositório local com a mais nova versão. Para dar "Pull" clica nas setas abaixo de "Commit" e clica em "Pull"
+
 ## Pull Request
+
+Pull requests permitem-te dizer ao outros utilizadores das alterações que fizeste para um repositório no GitHub. Uma vez que um pull request é aberto, tu podes discutir e rever as potenciais alterações com os teus colaboradores e adicionar commits novos antes das alterações serem juntas ao repositório.
+
+Para criares um pull request basta:
+
+- Na página do teu repositório no GitHub.com, clica em "New Pull Request".
+- Depois clica em "Create Pull Request" e já deve estar o Pull Request feito.
 
 ## Merge
 
+Merging é a maneira do Git de pegar num fork e voltar a juntar-lo ao código fonte. O merge deixa-te tomar linhas de desenvolvimento independentes criadas pelo branch e integrá-las de volta ao código fonte.
+O branch atual será atualizado para refletir o merge, mas o branch escolhido será completamente inafetado.
+
 ## Merge Conflicts
+
+Git pode, frequentemente, resolver as diferenças entre branchs que foram "merged". Normalmente, as mudanças são em linhas diferentes, ou até em ficheiros diferentes, o que faz do merge simples para computadores compreenderem. No entanto, às vezes existe alterações que o Git precisa da tua ajuda para decidir quais alterações incorparar no merge final. Frequentemente, os merge conflicts acontecem quando as pessoa querem fazer diferentes alterações á mesma linha do mesmo ficheiro, ou quando uma pessoa edita um ficheiro e outra pessoa apaga o mesmo ficheiro. Tu tens de resolver os conflitos antes de poderes dar merge aos branches.
+
+Existe um plugin no Atom chamado "Merge-Conflicts" que te pode ajudar com isto. Fica com os passos que queres saber sobre como instalar o plugin:
+
+- Vai a "File", no canto superior esquerdo do Atom.
+- Clica em "Settings".
+- Em seguida vai a "Install" e pesquisa por "merge-conflicts".
+- Irá te aparecer um plugin, instala-o.
