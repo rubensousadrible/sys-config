@@ -34,7 +34,7 @@ Ao abrires este [link](https://github.com/popperz0r/drible/issues), vai-te levar
 - Escreve o nome do teu branch, na textbox que diz "Find or create branch".
 - Seleciona a opção azul "Create branch" ou clica “Enter” no teu teclado.
 
-  ![Image](/sys-config/images/readme-edits.gif)
+  ![Gif](/sys-config/images/readme-edits.gif)
 
 ## Alteração de código
 
