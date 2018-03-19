@@ -90,11 +90,20 @@ Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e
   Ex:
         ![Image] (source)
 
-**Obs**: Não aparece nenhuma imagem porque não coloquei uma source
-
 ## Commit
 
+Um commit refere-se a submeter as últimas alterações do código fonte ao repositório e fazer com que estas alterações se tornem parte da versão principal do repositório. Deste modo, quando outros utilizadores fazem um UPDATE do repositório, eles receberão a versão enviada mais recentemente.
+
+Para dar commit às tuas alterações basta:
+
+- Verificar que todas as alterações estão corretas.
+- Dar Ctrl + S no separador onde fizeste as alterações.
+- No lado direito do ecrã, clicar em "Stage All".
+- Depois onde diz "Commit message", coloca lá um resumo das alterações que fizeste
+- Clicar em Commit
+
 ## Pull
+
 
 ## Push
 
