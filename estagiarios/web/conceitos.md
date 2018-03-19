@@ -19,7 +19,7 @@ Para dar fork num repositório, clica no botão _Fork_ localizado acima do repos
 - Depois clica em "Open in Desktop". Isto abrir-te-á o GitHub Desktop.
   ![Image](/sys-config/images/clone_opendesktop.PNG)
 - Cria uma pasta com o nome "**Drible**" no teu disco.
-- Guarda o diretório da pasta "**Drible**"
+- Guarda o diretório da pasta "**Drible**".
 - Clica em Clone.
 - Seleciona a pasta "**Drible**" para guardares o clone.
 
@@ -83,7 +83,7 @@ Para colocar um link colocamos o texto que queremos dentro de parênteses retos 
   Ex:
         [Link] (Url) (Sem edição) / [Link](Url)
 
-**Obs**: O link não leva a lado nenhum porque não coloquei o URL
+**Obs**: O link não leva a lado nenhum porque não coloquei o URL.
 
 Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e coloca lá as imagens que queres usar. Depois no Atom, coloca um ponto de exclamação, seguido do texto Image dentro de parênteses retos e a source da imagem em parênteses normais. A source da imagem será o diretório da imagem ou seja algo do género C:/Drible/sys-config/images/imagem1, mas terás que remover a parte do computador e ficará algo do género sys-config/images/imagem1.
 
@@ -108,7 +108,7 @@ Depois de dares commit às tuas alterações, o "Push" envia o teu codigo para s
 
 ## Pull
 
-O "Pull" serve para atualizar o teu repositório local com a mais nova versão. Para dar "Pull" clica nas setas abaixo de "Commit" e clica em "Pull"
+O "Pull" serve para atualizar o teu repositório local com a mais nova versão. Para dar "Pull" clica nas setas abaixo de "Commit" e clica em "Pull".
 
 ## Pull Request
 
