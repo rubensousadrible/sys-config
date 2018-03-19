@@ -100,7 +100,7 @@ Para dar commit às tuas alterações basta:
 - Dar Ctrl + S no separador onde fizeste as alterações.
 - No lado direito do ecrã, clicar em "Stage All".
 - Depois onde diz "Commit message", coloca lá um resumo das alterações que fizeste
-- Clicar em Commit
+- Clica em Commit
 
 ## Pull
 
