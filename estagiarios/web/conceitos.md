@@ -38,14 +38,67 @@ Ao abrires este [link](https://github.com/popperz0r/drible/issues), vai-te levar
 
 ## Alteração de código
 
+Agora vais ficar a conhecer alguns dos códigos básicos do git.
+
+-Cabeçalhos/Títulos
+  Para colocar cabeçalhos ou títulos apenas é preciso um cardinal antes do texto que queremos como cabeçalho. Quanto mais cardinais tiver , menor será o título. Ou seja, no exemplo a seguir o "Header 1" será o maior dos títulos e o "Header 3" o menor.
+
+  Ex:
+          # Header 1 (Sem edição)
+          ## Header 2 (Sem edição)
+          ### Header 3 (Sem edição)
+
+# Header 1
+## Header 2
+### Header 3
+
+-Lista
+  Para fazer uma lista, apenas é necessário colocar um hífen  e deixar um espaço antes do que queremos na lista:
+
+  Ex:         
+        -Lista (Não deixei espaço daí não aparecer editada)
+        - Lista Editada
+
+-Lista numérica
+  Para criar uma lista númerica basta adicionar-mos o número, um ponto e um espaço antes do que queremos escrever:
+
+        1.Lista (Não deixei espaço daí não aparecer editada)
+        2. Lista Numérica Editada
+
+-Negrito e Itálico
+  Para colocar a Negrito basta colocar 2 asteriscos antes e depois do texto que queremos a Negrito e não deixar espaço.
+
+  Ex:
+        ** Negrito ** (Deixei espaço daí não aparecer editado)
+        **Negrito**
+
+  Para colocar em Itálico basta colocar um underscore antes e depois do texto que queremos a Itálico e não deixar espaço.
+
+  Ex:
+        _ Itálico _ (Deixei espaço daí não aparecer editado)
+        _Itálico_
+
+-Links e Imagens
+
+Para colocar um link colocamos o texto que queremos dentro de parênteses retos e colocamos o URL que queremos que nos leve dentro de parênteses normais.
+
+  Ex:
+        [Link](url)
+
+Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e coloca lá as imagens que queres usar. Depois no Atom, coloca um ponto de exclamação, seguido do texto Image dentro de parênteses retos e a source da imagem em parênteses normais. A source da imagem será o diretório da imagem ou seja algo do género C:/Drible/sys-config/images/imagem1, mas terás que remover a parte do computador e ficará algo do género sys-config/images/imagem1.
+
+  Ex:
+        ![Image](src)
+
+
 ## Commit
 
 ## Pull
 
-## Merge
-
 ## Push
 
 ## Pull Request
+
+## Merge
 
 ## Merge Conflicts
