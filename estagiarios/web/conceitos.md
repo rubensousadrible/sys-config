@@ -61,7 +61,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
 -Lista numérica
   Para criar uma lista númerica basta adicionar-mos o número, um ponto e um espaço antes do que queremos escrever:
 
-        1.Lista (Sem edição)
+        Lista (Sem edição)
 
         2. Lista Numérica Editada
 
