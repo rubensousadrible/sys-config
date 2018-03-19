@@ -37,6 +37,7 @@ Para fazeres um branch basta ires ao canto inferior direito do Atom e clicar no 
 Agora vais ficar a conhecer alguns dos códigos básicos do git.
 
 -Cabeçalhos/Títulos
+
   Para colocar cabeçalhos ou títulos apenas é preciso um cardinal antes do texto que queremos como cabeçalho. Quanto mais cardinais tiver , menor será o título. Ou seja, no exemplo a seguir o "Header 1" será o maior dos títulos e o "Header 3" o menor.
 
   Ex:
@@ -47,6 +48,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
 ### Header 3
 
 -Lista
+
   Para fazer uma lista, apenas é necessário colocar um hífen  e deixar um espaço antes do que queremos na lista:
 
   Ex:         
@@ -55,6 +57,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
   - Lista Editada
 
 -Lista numérica
+
   Para criar uma lista númerica basta adicionar-mos o número, um ponto e um espaço antes do que queremos escrever:
 
   Lista (Sem edição)
@@ -62,6 +65,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
   2. Lista Numérica Editada
 
 -Negrito e Itálico
+
   Para colocar a Negrito basta colocar 2 asteriscos antes e depois do texto que queremos a Negrito e não deixar espaço.
 
   Ex:
@@ -74,14 +78,14 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
 
 -Links e Imagens
 
-Para colocar um link colocamos o texto que queremos dentro de parênteses retos e colocamos o URL que queremos que nos leve dentro de parênteses normais e não deixar espaço.
+  Para colocar um link colocamos o texto que queremos dentro de parênteses retos e colocamos o URL que queremos que nos leve dentro de parênteses normais e não deixar espaço.
 
   Ex:
         [Link] (Url) (Sem edição) / [Link](Url)
 
 **Obs**: O link não leva a lado nenhum porque não coloquei o URL.
 
-Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e coloca lá as imagens que queres usar. Depois no Atom, coloca um ponto de exclamação, seguido do texto Image dentro de parênteses retos e a source da imagem em parênteses normais. A source da imagem será o diretório da imagem ou seja algo do género C:/Drible/sys-config/images/imagem1, mas terás que remover a parte do computador e ficará algo do género sys-config/images/imagem1.
+  Dentro da pasta Drible que criaste acima, cria uma página com o nome "images" e coloca lá as imagens que queres usar. Depois no Atom, coloca um ponto de exclamação, seguido do texto Image dentro de parênteses retos e a source da imagem em parênteses normais. A source da imagem será o diretório da imagem ou seja algo do género C:/Drible/sys-config/images/imagem1, mas terás que remover a parte do computador e ficará algo do género sys-config/images/imagem1.
 
   Ex:
         ![Image] (source)
