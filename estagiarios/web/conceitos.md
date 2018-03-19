@@ -44,7 +44,7 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
   Para colocar cabeçalhos ou títulos apenas é preciso um cardinal antes do texto que queremos como cabeçalho. Quanto mais cardinais tiver , menor será o título. Ou seja, no exemplo a seguir o "Header 1" será o maior dos títulos e o "Header 3" o menor.
 
   Ex:
-          # Header 1 (Sem edição) / ## Header 2 (Sem edição) / ### Header 3 (Sem edição)
+        (Sem edição)  # Header 1 / ## Header 2  / ### Header 3
 
 # Header 1
 ## Header 2
