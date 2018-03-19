@@ -54,16 +54,16 @@ Agora vais ficar a conhecer alguns dos códigos básicos do git.
   Para fazer uma lista, apenas é necessário colocar um hífen  e deixar um espaço antes do que queremos na lista:
 
   Ex:         
-        -Lista (Sem edição)
+  -Lista (Sem edição)
 
-        - Lista Editada
+  - Lista Editada
 
 -Lista numérica
   Para criar uma lista númerica basta adicionar-mos o número, um ponto e um espaço antes do que queremos escrever:
 
-        Lista (Sem edição)
+  Lista (Sem edição)
 
-        2. Lista Numérica Editada
+  2. Lista Numérica Editada
 
 -Negrito e Itálico
   Para colocar a Negrito basta colocar 2 asteriscos antes e depois do texto que queremos a Negrito e não deixar espaço.
