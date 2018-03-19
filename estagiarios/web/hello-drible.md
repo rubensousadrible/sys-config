@@ -163,6 +163,8 @@ Existe um plugin no Atom chamado "Merge-Conflicts" que te pode ajudar com isto. 
 - Em seguida vai a "Install" e pesquisa por "merge-conflicts".
 - Irá te aparecer um plugin, instala-o.
 
+***
+***
 
 ## Menu:
 - [Estagiários](/sys-config/estagiarios/home)
